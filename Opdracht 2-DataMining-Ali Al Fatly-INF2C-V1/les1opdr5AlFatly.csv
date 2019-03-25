@@ -1,0 +1,977 @@
+Age;BMIcoefficient;BMIwaarde;Gender;Height (inches);Height (meter);How would you describe your weight?;IndrukGewichtCoefficient;Weight (kg);Weight (lbs);BMIschattingvergelijking
+18.0;0.0;23.54;Female;67.0;1.7;Slightly overweight;2.0;68.04;150.0;2
+17.0;0.0;21.97;Male;67.0;1.7;About the right weight;1.0;63.5;140.0;1
+16.0;-1.0;15.7;Female;67.0;1.7;Slightly underweight;0.0;45.36;100.0;1
+18.0;2.0;34.04;Female;62.0;1.57;Slightly overweight;2.0;83.91;185.0;0
+17.0;0.0;23.3;Male;66.0;1.68;Slightly overweight;2.0;65.77;145.0;2
+17.0;1.0;25.76;Female;62.0;1.57;Slightly overweight;2.0;63.5;140.0;1
+16.0;1.0;27.11;Male;69.0;1.75;Slightly overweight;2.0;83.01;183.0;1
+18.0;0.0;21.22;Female;68.0;1.73;Slightly overweight;2.0;63.5;140.0;2
+17.0;0.0;24.5;Male;71.0;1.8;About the right weight;1.0;79.38;175.0;1
+15.0;-1.0;17.36;Male;66.0;1.68;Slightly underweight;0.0;48.99;108.0;1
+17.0;0.0;21.0;Female;64.0;1.63;About the right weight;1.0;55.79;123.0;1
+18.0;2.0;34.55;Male;66.0;1.68;Slightly overweight;2.0;97.52;215.0;0
+15.0;0.0;23.55;Male;62.0;1.57;About the right weight;1.0;58.06;128.0;1
+17.0;-1.0;18.35;Female;59.0;1.5;About the right weight;1.0;41.28;91.0;2
+17.0;1.0;26.24;Male;73.0;1.85;Slightly underweight;0.0;89.81;198.0;-1
+18.0;2.0;35.28;Female;59.0;1.5;Slightly overweight;2.0;79.38;175.0;0
+17.0;0.0;22.76;Male;67.0;1.7;Slightly underweight;0.0;65.77;145.0;0
+15.0;0.0;20.14;Male;64.0;1.63;About the right weight;1.0;53.52;118.0;1
+19.0;0.0;21.0;Male;71.0;1.8;Slightly underweight;0.0;68.04;150.0;0
+17.0;-1.0;17.5;Male;71.0;1.8;About the right weight;1.0;56.7;125.0;2
+17.0;1.0;26.66;Male;69.0;1.75;About the right weight;1.0;81.65;180.0;0
+16.0;0.0;18.95;Female;59.0;1.5;Slightly underweight;0.0;42.64;94.0;0
+15.0;0.0;20.53;Male;74.0;1.88;Slightly underweight;0.0;72.57;160.0;0
+16.0;2.0;33.66;Female;63.0;1.6;Slightly overweight;2.0;86.18;190.0;0
+19.0;0.0;24.16;Male;65.0;1.65;About the right weight;1.0;65.77;145.0;1
+18.0;0.0;23.7;Male;69.0;1.75;About the right weight;1.0;72.57;160.0;1
+16.0;0.0;20.89;Female;66.0;1.68;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;21.26;Female;63.0;1.6;About the right weight;1.0;54.43;120.0;1
+17.0;0.0;20.83;Male;65.0;1.65;Very underweight;-1.0;56.7;125.0;-1
+18.0;0.0;18.79;Female;68.0;1.73;About the right weight;1.0;56.25;124.0;1
+18.0;0.0;23.05;Female;64.0;1.63;About the right weight;1.0;61.23;135.0;1
+15.0;-1.0;16.73;Female;64.0;1.63;About the right weight;1.0;44.45;98.0;2
+16.0;0.0;24.11;Male;66.0;1.68;Slightly overweight;2.0;68.04;150.0;2
+19.0;1.0;25.11;Female;67.0;1.7;Slightly overweight;2.0;72.57;160.0;1
+18.0;0.0;21.97;Female;67.0;1.7;About the right weight;1.0;63.5;140.0;1
+19.0;0.0;23.8;Male;71.0;1.8;About the right weight;1.0;77.11;170.0;1
+16.0;0.0;21.4;Female;60.0;1.52;Slightly overweight;2.0;49.44;109.0;2
+16.0;1.0;25.76;Male;68.0;1.73;Slightly overweight;2.0;77.11;170.0;1
+18.0;1.0;29.23;Female;63.0;1.6;About the right weight;1.0;74.84;165.0;0
+18.0;0.0;23.07;Male;67.0;1.7;About the right weight;1.0;66.68;147.0;1
+16.0;0.0;19.49;Female;63.0;1.6;About the right weight;1.0;49.9;110.0;1
+15.0;0.0;24.25;Male;68.0;1.73;Slightly underweight;0.0;72.57;160.0;0
+17.0;0.0;24.54;Female;60.0;1.52;Slightly overweight;2.0;56.7;125.0;2
+16.0;0.0;22.82;Female;66.0;1.68;Slightly overweight;2.0;64.41;142.0;2
+17.0;1.0;25.66;Female;65.0;1.65;About the right weight;1.0;69.85;154.0;0
+16.0;0.0;21.9;Female;62.0;1.57;About the right weight;1.0;53.98;119.0;1
+19.0;0.0;22.49;Male;65.0;1.65;About the right weight;1.0;61.23;135.0;1
+16.0;1.0;28.88;Male;69.0;1.75;Slightly overweight;2.0;88.45;195.0;1
+15.0;0.0;19.49;Female;63.0;1.6;About the right weight;1.0;49.9;110.0;1
+15.0;0.0;24.8;Female;63.0;1.6;Slightly overweight;2.0;63.5;140.0;2
+18.0;2.0;37.39;Female;64.0;1.63;Very overweight;3.0;99.34;219.0;-5
+17.0;0.0;21.69;Female;66.0;1.68;About the right weight;1.0;61.23;135.0;1
+17.0;0.0;22.5;Male;66.0;1.68;About the right weight;1.0;63.5;140.0;1
+16.0;0.0;20.46;Male;68.0;1.73;About the right weight;1.0;61.23;135.0;1
+15.0;-1.0;17.07;Male;64.0;1.63;About the right weight;1.0;45.36;100.0;2
+16.0;0.0;24.84;Female;62.0;1.57;About the right weight;1.0;61.23;135.0;1
+19.0;1.0;25.67;Male;74.0;1.88;About the right weight;1.0;90.72;200.0;0
+15.0;1.0;26.58;Female;63.0;1.6;Slightly underweight;0.0;68.04;150.0;-1
+19.0;0.0;24.14;Male;69.0;1.75;About the right weight;1.0;73.94;163.0;1
+15.0;-1.0;16.24;Male;71.0;1.8;About the right weight;1.0;52.62;116.0;2
+19.0;0.0;21.98;Male;68.0;1.73;About the right weight;1.0;65.77;145.0;1
+19.0;0.0;19.6;Male;71.0;1.8;About the right weight;1.0;63.5;140.0;1
+18.0;0.0;18.94;Male;68.0;1.73;About the right weight;1.0;56.7;125.0;1
+18.0;0.0;20.89;Female;66.0;1.68;Slightly overweight;2.0;58.97;130.0;2
+17.0;0.0;21.26;Male;72.0;1.83;About the right weight;1.0;71.21;157.0;1
+20.0;2.0;30.31;Male;68.0;1.73;Slightly overweight;2.0;90.72;200.0;0
+17.0;0.0;20.77;Female;61.0;1.55;About the right weight;1.0;49.9;110.0;1
+15.0;1.0;28.17;Male;64.0;1.63;Slightly overweight;2.0;74.84;165.0;1
+16.0;-1.0;16.46;Male;70.0;1.78;About the right weight;1.0;52.16;115.0;2
+17.0;0.0;24.01;Male;67.0;1.7;About the right weight;1.0;69.4;153.0;1
+17.0;0.0;22.49;Male;65.0;1.65;About the right weight;1.0;61.23;135.0;1
+14.0;0.0;21.35;Female;62.0;1.57;About the right weight;1.0;52.62;116.0;1
+18.0;0.0;21.62;Female;63.0;1.6;Slightly underweight;0.0;55.34;122.0;0
+15.0;0.0;20.89;Male;66.0;1.68;About the right weight;1.0;58.97;130.0;1
+18.0;0.0;23.86;Male;73.0;1.85;Slightly underweight;0.0;81.65;180.0;0
+15.0;-1.0;17.68;Female;66.0;1.68;About the right weight;1.0;49.9;110.0;2
+15.0;1.0;28.14;Male;69.0;1.75;Slightly overweight;2.0;86.18;190.0;1
+18.0;0.0;24.25;Male;68.0;1.73;About the right weight;1.0;72.57;160.0;1
+15.0;0.0;21.16;Female;62.0;1.57;About the right weight;1.0;52.16;115.0;1
+15.0;0.0;20.89;Male;66.0;1.68;Slightly overweight;2.0;58.97;130.0;2
+19.0;0.0;18.78;Female;64.0;1.63;About the right weight;1.0;49.9;110.0;1
+15.0;0.0;21.47;Male;70.0;1.78;Slightly overweight;2.0;68.04;150.0;2
+18.0;1.0;25.06;Male;72.0;1.83;Slightly underweight;0.0;83.91;185.0;-1
+17.0;1.0;25.05;Male;70.0;1.78;About the right weight;1.0;79.38;175.0;0
+18.0;2.0;32.14;Male;66.0;1.68;Slightly overweight;2.0;90.72;200.0;0
+17.0;1.0;27.28;Female;68.0;1.73;Slightly overweight;2.0;81.65;180.0;1
+16.0;0.0;24.84;Male;62.0;1.57;About the right weight;1.0;61.23;135.0;1
+16.0;0.0;21.26;Male;63.0;1.6;Very underweight;-1.0;54.43;120.0;-1
+19.0;0.0;23.74;Female;63.0;1.6;About the right weight;1.0;60.78;134.0;1
+17.0;1.0;25.06;Male;72.0;1.83;About the right weight;1.0;83.91;185.0;0
+19.0;0.0;21.67;Male;72.0;1.83;Slightly underweight;0.0;72.57;160.0;0
+17.0;0.0;24.25;Male;68.0;1.73;Slightly underweight;0.0;72.57;160.0;0
+18.0;0.0;23.82;Female;65.0;1.65;Slightly overweight;2.0;64.86;143.0;2
+18.0;1.0;27.28;Female;68.0;1.73;Slightly overweight;2.0;81.65;180.0;1
+17.0;0.0;21.66;Female;65.0;1.65;Very overweight;3.0;58.97;130.0;-3
+16.0;2.0;33.32;Female;65.0;1.65;Slightly overweight;2.0;90.72;200.0;0
+19.0;2.0;32.49;Female;65.0;1.65;Slightly overweight;2.0;88.45;195.0;0
+16.0;1.0;25.71;Male;66.0;1.68;About the right weight;1.0;72.57;160.0;0
+18.0;1.0;27.92;Male;70.0;1.78;Slightly overweight;2.0;88.45;195.0;1
+17.0;0.0;21.26;Female;63.0;1.6;About the right weight;1.0;54.43;120.0;1
+15.0;-1.0;17.77;Male;69.0;1.75;About the right weight;1.0;54.43;120.0;2
+17.0;0.0;18.78;Female;64.0;1.63;About the right weight;1.0;49.9;110.0;1
+15.0;0.0;21.97;Female;67.0;1.7;About the right weight;1.0;63.5;140.0;1
+18.0;-1.0;16.71;Female;66.0;1.68;Slightly underweight;0.0;47.17;104.0;1
+15.0;0.0;22.15;Female;63.0;1.6;About the right weight;1.0;56.7;125.0;1
+15.0;0.0;19.6;Male;71.0;1.8;Slightly underweight;0.0;63.5;140.0;0
+17.0;1.0;28.79;Female;68.0;1.73;Slightly overweight;2.0;86.18;190.0;1
+15.0;0.0;20.83;Female;65.0;1.65;About the right weight;1.0;56.7;125.0;1
+15.0;0.0;20.09;Male;66.0;1.68;About the right weight;1.0;56.7;125.0;1
+15.0;0.0;21.34;Male;64.0;1.63;About the right weight;1.0;56.7;125.0;1
+17.0;2.0;33.18;Male;72.0;1.83;Very overweight;3.0;111.13;245.0;-5
+15.0;2.0;30.16;Male;74.0;1.88;Slightly overweight;2.0;106.59;235.0;0
+15.0;0.0;23.92;Female;62.0;1.57;Slightly overweight;2.0;58.97;130.0;2
+18.0;0.0;20.46;Male;68.0;1.73;Slightly underweight;0.0;61.23;135.0;0
+17.0;0.0;22.08;Female;62.0;1.57;About the right weight;1.0;54.43;120.0;1
+17.0;1.0;27.46;Female;63.0;1.6;Slightly overweight;2.0;70.31;155.0;1
+19.0;0.0;21.66;Female;65.0;1.65;Slightly overweight;2.0;58.97;130.0;2
+18.0;0.0;22.2;Female;64.0;1.63;Slightly overweight;2.0;58.97;130.0;2
+19.0;1.0;25.67;Male;74.0;1.88;Slightly overweight;2.0;90.72;200.0;1
+16.0;0.0;20.76;Male;70.0;1.78;Slightly underweight;0.0;65.77;145.0;0
+17.0;0.0;21.22;Male;68.0;1.73;Slightly overweight;2.0;63.5;140.0;2
+15.0;0.0;19.99;Male;69.0;1.75;Slightly underweight;0.0;61.23;135.0;0
+16.0;0.0;23.41;Female;61.0;1.55;Slightly overweight;2.0;56.25;124.0;2
+19.0;0.0;20.09;Female;66.0;1.68;About the right weight;1.0;56.7;125.0;1
+15.0;1.0;26.3;Male;76.0;1.93;Slightly overweight;2.0;97.98;216.0;1
+15.0;0.0;19.29;Female;66.0;1.68;About the right weight;1.0;54.43;120.0;1
+20.0;0.0;18.95;Female;62.0;1.57;Slightly underweight;0.0;46.72;103.0;0
+18.0;1.0;26.99;Female;65.0;1.65;Slightly overweight;2.0;73.48;162.0;1
+18.0;0.0;24.44;Male;69.0;1.75;About the right weight;1.0;74.84;165.0;1
+17.0;0.0;21.74;Male;73.0;1.85;About the right weight;1.0;74.39;164.0;1
+15.0;0.0;21.9;Male;70.0;1.78;About the right weight;1.0;69.4;153.0;1
+15.0;0.0;21.39;Male;75.0;1.91;About the right weight;1.0;78.02;172.0;1
+15.0;0.0;21.62;Female;58.0;1.47;About the right weight;1.0;46.72;103.0;1
+17.0;0.0;23.92;Female;63.0;1.6;About the right weight;1.0;61.23;135.0;1
+16.0;0.0;24.25;Female;68.0;1.73;Slightly overweight;2.0;72.57;160.0;2
+15.0;0.0;20.88;Male;69.0;1.75;About the right weight;1.0;63.96;141.0;1
+18.0;0.0;22.76;Female;67.0;1.7;About the right weight;1.0;65.77;145.0;1
+17.0;0.0;22.43;Male;68.0;1.73;About the right weight;1.0;67.13;148.0;1
+19.0;1.0;28.25;Female;67.0;1.7;Slightly overweight;2.0;81.65;180.0;1
+19.0;0.0;21.47;Male;70.0;1.78;Slightly underweight;0.0;68.04;150.0;0
+17.0;0.0;22.9;Male;70.0;1.78;About the right weight;1.0;72.57;160.0;1
+17.0;2.0;33.38;Female;60.0;1.52;Very overweight;3.0;77.11;170.0;-5
+14.0;2.0;30.06;Male;70.0;1.78;About the right weight;1.0;95.25;210.0;-1
+20.0;1.0;28.13;Female;66.0;1.68;Very overweight;3.0;79.38;175.0;-4
+19.0;0.0;22.2;Female;64.0;1.63;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;23.3;Male;72.0;1.83;Slightly underweight;0.0;78.02;172.0;0
+18.0;-1.0;18.44;Female;64.0;1.63;Slightly underweight;0.0;48.99;108.0;1
+19.0;1.0;25.73;Male;72.0;1.83;About the right weight;1.0;86.18;190.0;0
+17.0;0.0;22.82;Female;66.0;1.68;Slightly overweight;2.0;64.41;142.0;2
+15.0;2.0;34.8;Male;69.0;1.75;Very overweight;3.0;106.59;235.0;-5
+18.0;0.0;19.64;Male;72.0;1.83;Slightly underweight;0.0;65.77;145.0;0
+15.0;0.0;18.78;Female;64.0;1.63;About the right weight;1.0;49.9;110.0;1
+17.0;1.0;28.06;Male;70.0;1.78;About the right weight;1.0;88.9;196.0;0
+18.0;0.0;19.66;Female;65.0;1.65;About the right weight;1.0;53.52;118.0;1
+17.0;1.0;27.09;Male;72.0;1.83;Slightly overweight;2.0;90.72;200.0;1
+19.0;1.0;27.38;Female;61.0;1.55;Slightly overweight;2.0;65.77;145.0;1
+19.0;0.0;19.49;Female;63.0;1.6;About the right weight;1.0;49.9;110.0;1
+18.0;0.0;19.16;Female;65.0;1.65;Slightly underweight;0.0;52.16;115.0;0
+16.0;0.0;24.34;Male;70.0;1.78;Slightly overweight;2.0;77.11;170.0;2
+17.0;1.0;25.71;Female;66.0;1.68;Slightly overweight;2.0;72.57;160.0;1
+15.0;0.0;22.63;Female;62.0;1.57;About the right weight;1.0;55.79;123.0;1
+18.0;0.0;22.49;Female;65.0;1.65;Slightly overweight;2.0;61.23;135.0;2
+15.0;0.0;21.22;Male;68.0;1.73;About the right weight;1.0;63.5;140.0;1
+18.0;1.0;26.66;Male;65.0;1.65;About the right weight;1.0;72.57;160.0;0
+16.0;1.0;29.45;Female;60.0;1.52;Slightly overweight;2.0;68.04;150.0;1
+16.0;0.0;22.75;Male;72.0;1.83;About the right weight;1.0;76.2;168.0;1
+19.0;0.0;18.88;Female;61.0;1.55;Slightly underweight;0.0;45.36;100.0;0
+15.0;-1.0;18.4;Female;62.0;1.57;About the right weight;1.0;45.36;100.0;2
+16.0;0.0;21.69;Male;66.0;1.68;About the right weight;1.0;61.23;135.0;1
+17.0;0.0;24.33;Male;67.0;1.7;Slightly overweight;2.0;70.31;155.0;2
+17.0;0.0;24.84;Female;62.0;1.57;About the right weight;1.0;61.23;135.0;1
+19.0;2.0;34.15;Female;64.0;1.63;Very overweight;3.0;90.72;200.0;-5
+16.0;0.0;22.5;Male;66.0;1.68;Slightly underweight;0.0;63.5;140.0;0
+19.0;2.0;34.04;Female;62.0;1.57;Slightly overweight;2.0;83.91;185.0;0
+17.0;0.0;20.83;Male;65.0;1.65;Slightly underweight;0.0;56.7;125.0;0
+19.0;0.0;22.35;Male;72.0;1.83;About the right weight;1.0;74.84;165.0;1
+15.0;-1.0;16.22;Female;64.0;1.63;Slightly underweight;0.0;43.09;95.0;1
+17.0;0.0;20.99;Male;72.0;1.83;About the right weight;1.0;70.31;155.0;1
+15.0;-1.0;18.33;Female;65.0;1.65;About the right weight;1.0;49.9;110.0;2
+18.0;1.0;25.9;Female;67.0;1.7;Slightly overweight;2.0;74.84;165.0;1
+15.0;0.0;21.99;Female;65.0;1.65;Slightly overweight;2.0;59.87;132.0;2
+17.0;0.0;20.09;Male;66.0;1.68;Slightly overweight;2.0;56.7;125.0;2
+18.0;0.0;20.49;Female;64.0;1.63;About the right weight;1.0;54.43;120.0;1
+15.0;0.0;23.04;Female;63.0;1.6;Slightly overweight;2.0;58.97;130.0;2
+16.0;0.0;20.89;Male;66.0;1.68;Slightly underweight;0.0;58.97;130.0;0
+15.0;0.0;20.37;Male;63.0;1.6;About the right weight;1.0;52.16;115.0;1
+19.0;2.0;32.25;Female;59.0;1.5;About the right weight;1.0;72.57;160.0;-1
+19.0;1.0;25.61;Male;64.0;1.63;About the right weight;1.0;68.04;150.0;0
+17.0;0.0;22.2;Female;64.0;1.63;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;22.66;Female;61.0;1.55;Slightly overweight;2.0;54.43;120.0;2
+18.0;0.0;24.11;Male;66.0;1.68;Slightly overweight;2.0;68.04;150.0;2
+19.0;3.0;40.18;Female;66.0;1.68;Very overweight;3.0;113.4;250.0;0
+16.0;0.0;21.0;Male;71.0;1.8;Slightly overweight;2.0;68.04;150.0;2
+17.0;1.0;25.77;Male;70.0;1.78;Slightly overweight;2.0;81.65;180.0;1
+15.0;2.0;31.1;Male;69.0;1.75;Slightly overweight;2.0;95.25;210.0;0
+15.0;0.0;19.83;Female;61.0;1.55;Slightly underweight;0.0;47.63;105.0;0
+18.0;0.0;23.9;Male;64.0;1.63;About the right weight;1.0;63.5;140.0;1
+18.0;0.0;23.04;Male;63.0;1.6;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;22.2;Female;64.0;1.63;About the right weight;1.0;58.97;130.0;1
+19.0;1.0;29.4;Male;71.0;1.8;Slightly overweight;2.0;95.25;210.0;1
+18.0;0.0;23.39;Female;63.0;1.6;About the right weight;1.0;59.87;132.0;1
+15.0;-1.0;17.9;Male;70.0;1.78;About the right weight;1.0;56.7;125.0;2
+15.0;-1.0;17.68;Female;66.0;1.68;Slightly underweight;0.0;49.9;110.0;1
+15.0;0.0;20.83;Male;65.0;1.65;About the right weight;1.0;56.7;125.0;1
+19.0;1.0;26.21;Male;67.0;1.7;About the right weight;1.0;75.75;167.0;0
+15.0;0.0;21.97;Male;67.0;1.7;About the right weight;1.0;63.5;140.0;1
+19.0;0.0;19.26;Male;69.0;1.75;Slightly underweight;0.0;58.97;130.0;0
+16.0;0.0;20.33;Female;65.0;1.65;About the right weight;1.0;55.34;122.0;1
+18.0;0.0;19.29;Female;64.0;1.63;About the right weight;1.0;51.26;113.0;1
+15.0;0.0;21.2;Female;60.0;1.52;Slightly overweight;2.0;48.99;108.0;2
+17.0;0.0;19.29;Male;66.0;1.68;Slightly underweight;0.0;54.43;120.0;0
+18.0;1.0;25.52;Female;60.0;1.52;Slightly overweight;2.0;58.97;130.0;1
+19.0;1.0;25.77;Male;70.0;1.78;About the right weight;1.0;81.65;180.0;0
+16.0;0.0;20.62;Female;60.0;1.52;Slightly overweight;2.0;47.63;105.0;2
+16.0;0.0;22.66;Female;61.0;1.55;About the right weight;1.0;54.43;120.0;1
+15.0;1.0;25.18;Male;69.0;1.75;About the right weight;1.0;77.11;170.0;0
+16.0;0.0;20.33;Female;65.0;1.65;About the right weight;1.0;55.34;122.0;1
+16.0;0.0;22.76;Male;67.0;1.7;About the right weight;1.0;65.77;145.0;1
+15.0;0.0;19.55;Female;69.0;1.75;About the right weight;1.0;59.87;132.0;1
+19.0;0.0;22.19;Male;70.0;1.78;About the right weight;1.0;70.31;155.0;1
+17.0;0.0;22.9;Male;70.0;1.78;About the right weight;1.0;72.57;160.0;1
+16.0;-1.0;16.48;Female;67.0;1.7;About the right weight;1.0;47.63;105.0;2
+17.0;0.0;20.49;Male;64.0;1.63;Slightly overweight;2.0;54.43;120.0;2
+15.0;0.0;19.26;Female;61.0;1.55;About the right weight;1.0;46.27;102.0;1
+15.0;0.0;20.77;Female;61.0;1.55;About the right weight;1.0;49.9;110.0;1
+18.0;0.0;19.6;Male;71.0;1.8;Slightly underweight;0.0;63.5;140.0;0
+16.0;0.0;20.04;Female;70.0;1.78;About the right weight;1.0;63.5;140.0;1
+16.0;-1.0;17.61;Male;72.0;1.83;About the right weight;1.0;58.97;130.0;2
+18.0;0.0;21.7;Male;71.0;1.8;Slightly underweight;0.0;70.31;155.0;0
+19.0;1.0;25.73;Male;72.0;1.83;About the right weight;1.0;86.18;190.0;0
+16.0;0.0;19.7;Male;68.0;1.73;About the right weight;1.0;58.97;130.0;1
+19.0;0.0;18.55;Male;73.0;1.85;Very underweight;-1.0;63.5;140.0;-1
+16.0;0.0;22.5;Male;66.0;1.68;About the right weight;1.0;63.5;140.0;1
+17.0;0.0;20.14;Male;69.0;1.75;About the right weight;1.0;61.69;136.0;1
+16.0;0.0;20.4;Male;67.0;1.7;About the right weight;1.0;58.97;130.0;1
+19.0;0.0;21.19;Female;67.0;1.7;About the right weight;1.0;61.23;135.0;1
+18.0;0.0;21.83;Female;65.0;1.65;About the right weight;1.0;59.42;131.0;1
+17.0;0.0;21.03;Male;69.0;1.75;About the right weight;1.0;64.41;142.0;1
+18.0;0.0;20.49;Female;64.0;1.63;Slightly overweight;2.0;54.43;120.0;2
+17.0;0.0;20.73;Female;63.0;1.6;About the right weight;1.0;53.07;117.0;1
+17.0;3.0;42.33;Female;59.0;1.5;Very overweight;3.0;95.25;210.0;0
+16.0;0.0;20.89;Female;66.0;1.68;About the right weight;1.0;58.97;130.0;1
+17.0;-1.0;15.95;Female;63.0;1.6;Slightly underweight;0.0;40.82;90.0;1
+15.0;0.0;19.99;Male;65.0;1.65;About the right weight;1.0;54.43;120.0;1
+19.0;0.0;23.03;Male;72.0;1.83;Slightly overweight;2.0;77.11;170.0;2
+18.0;0.0;22.4;Male;71.0;1.8;About the right weight;1.0;72.57;160.0;1
+16.0;0.0;23.1;Male;71.0;1.8;About the right weight;1.0;74.84;165.0;1
+14.0;0.0;21.19;Male;67.0;1.7;About the right weight;1.0;61.23;135.0;1
+19.0;0.0;19.29;Male;66.0;1.68;Slightly underweight;0.0;54.43;120.0;0
+15.0;-1.0;18.33;Male;65.0;1.65;Slightly underweight;0.0;49.9;110.0;1
+18.0;0.0;23.05;Female;64.0;1.63;About the right weight;1.0;61.23;135.0;1
+15.0;0.0;24.8;Female;63.0;1.6;Slightly overweight;2.0;63.5;140.0;2
+19.0;1.0;26.66;Male;69.0;1.75;Slightly overweight;2.0;81.65;180.0;1
+15.0;0.0;20.24;Female;62.0;1.57;Slightly overweight;2.0;49.9;110.0;2
+16.0;0.0;20.49;Female;64.0;1.63;About the right weight;1.0;54.43;120.0;1
+17.0;0.0;24.38;Male;72.0;1.83;About the right weight;1.0;81.65;180.0;1
+17.0;0.0;20.77;Female;61.0;1.55;About the right weight;1.0;49.9;110.0;1
+15.0;0.0;24.99;Male;65.0;1.65;About the right weight;1.0;68.04;150.0;1
+16.0;0.0;24.99;Female;65.0;1.65;About the right weight;1.0;68.04;150.0;1
+15.0;-1.0;17.93;Female;64.0;1.63;Slightly underweight;0.0;47.63;105.0;1
+18.0;0.0;21.26;Female;63.0;1.6;Slightly underweight;0.0;54.43;120.0;0
+16.0;0.0;23.9;Female;64.0;1.63;About the right weight;1.0;63.5;140.0;1
+19.0;0.0;23.49;Female;68.0;1.73;About the right weight;1.0;70.31;155.0;1
+16.0;1.0;25.77;Male;70.0;1.78;Slightly overweight;2.0;81.65;180.0;1
+16.0;0.0;22.18;Female;59.0;1.5;About the right weight;1.0;49.9;110.0;1
+19.0;0.0;22.15;Female;63.0;1.6;About the right weight;1.0;56.7;125.0;1
+18.0;1.0;25.71;Male;66.0;1.68;About the right weight;1.0;72.57;160.0;0
+17.0;0.0;22.15;Female;63.0;1.6;About the right weight;1.0;56.7;125.0;1
+17.0;1.0;25.61;Male;64.0;1.63;About the right weight;1.0;68.04;150.0;0
+17.0;0.0;22.49;Female;65.0;1.65;About the right weight;1.0;61.23;135.0;1
+18.0;0.0;20.46;Female;68.0;1.73;About the right weight;1.0;61.23;135.0;1
+15.0;0.0;23.1;Male;74.0;1.88;Slightly overweight;2.0;81.65;180.0;2
+17.0;0.0;19.81;Female;64.0;1.63;About the right weight;1.0;52.62;116.0;1
+17.0;1.0;25.71;Male;66.0;1.68;Slightly overweight;2.0;72.57;160.0;1
+19.0;0.0;23.32;Female;65.0;1.65;Slightly overweight;2.0;63.5;140.0;2
+16.0;0.0;19.7;Male;68.0;1.73;About the right weight;1.0;58.97;130.0;1
+17.0;1.0;26.52;Female;66.0;1.68;Slightly overweight;2.0;74.84;165.0;1
+18.0;1.0;25.84;Male;73.0;1.85;Slightly overweight;2.0;88.45;195.0;1
+17.0;-1.0;17.67;Female;60.0;1.52;Slightly overweight;2.0;40.82;90.0;3
+19.0;0.0;20.53;Male;74.0;1.88;Slightly underweight;0.0;72.57;160.0;0
+19.0;0.0;24.87;Male;75.0;1.91;Slightly underweight;0.0;90.72;200.0;0
+15.0;0.0;23.05;Male;64.0;1.63;Slightly overweight;2.0;61.23;135.0;2
+19.0;0.0;19.63;Female;64.0;1.63;Slightly overweight;2.0;52.16;115.0;2
+17.0;0.0;20.8;Female;62.0;1.57;About the right weight;1.0;51.26;113.0;1
+15.0;0.0;18.83;Male;65.0;1.65;Slightly underweight;0.0;51.26;113.0;0
+16.0;0.0;20.32;Male;72.0;1.83;About the right weight;1.0;68.04;150.0;1
+19.0;0.0;22.08;Female;62.0;1.57;About the right weight;1.0;54.43;120.0;1
+19.0;0.0;20.24;Male;62.0;1.57;Slightly underweight;0.0;49.9;110.0;0
+17.0;-1.0;17.36;Female;63.0;1.6;About the right weight;1.0;44.45;98.0;2
+15.0;-1.0;18.16;Female;66.0;1.68;Slightly overweight;2.0;51.26;113.0;3
+17.0;0.0;21.48;Male;69.0;1.75;About the right weight;1.0;65.77;145.0;1
+16.0;-1.0;17.88;Male;72.0;1.83;Very underweight;-1.0;59.87;132.0;0
+18.0;0.0;20.61;Female;62.0;1.57;Slightly overweight;2.0;50.8;112.0;2
+18.0;0.0;21.16;Female;62.0;1.57;Slightly overweight;2.0;52.16;115.0;2
+17.0;0.0;21.34;Male;64.0;1.63;About the right weight;1.0;56.7;125.0;1
+15.0;0.0;20.83;Male;65.0;1.65;About the right weight;1.0;56.7;125.0;1
+17.0;1.0;28.63;Male;70.0;1.78;About the right weight;1.0;90.72;200.0;0
+15.0;0.0;19.84;Male;63.0;1.6;Slightly underweight;0.0;50.8;112.0;0
+15.0;0.0;19.49;Male;63.0;1.6;About the right weight;1.0;49.9;110.0;1
+15.0;0.0;22.29;Male;67.0;1.7;About the right weight;1.0;64.41;142.0;1
+18.0;0.0;20.89;Male;66.0;1.68;About the right weight;1.0;58.97;130.0;1
+16.0;0.0;23.9;Male;64.0;1.63;About the right weight;1.0;63.5;140.0;1
+16.0;0.0;22.22;Male;69.0;1.75;About the right weight;1.0;68.04;150.0;1
+15.0;0.0;24.25;Male;68.0;1.73;About the right weight;1.0;72.57;160.0;1
+18.0;0.0;22.5;Female;66.0;1.68;About the right weight;1.0;63.5;140.0;1
+17.0;2.0;32.02;Female;62.0;1.57;Very overweight;3.0;78.93;174.0;-5
+17.0;0.0;20.73;Female;63.0;1.6;About the right weight;1.0;53.07;117.0;1
+18.0;2.0;30.48;Male;72.0;1.83;Slightly overweight;2.0;102.06;225.0;0
+16.0;0.0;20.76;Male;70.0;1.78;Slightly underweight;0.0;65.77;145.0;0
+16.0;0.0;24.19;Female;59.0;1.5;Slightly overweight;2.0;54.43;120.0;2
+15.0;0.0;21.19;Male;67.0;1.7;About the right weight;1.0;61.23;135.0;1
+19.0;2.0;30.08;Male;78.0;1.98;About the right weight;1.0;117.93;260.0;-1
+18.0;1.0;29.88;Female;64.0;1.63;Very overweight;3.0;79.38;175.0;-4
+15.0;0.0;21.85;Female;64.0;1.63;About the right weight;1.0;58.06;128.0;1
+15.0;0.0;23.56;Female;60.0;1.52;Slightly overweight;2.0;54.43;120.0;2
+17.0;0.0;20.73;Female;63.0;1.6;About the right weight;1.0;53.07;117.0;1
+19.0;1.0;26.66;Female;65.0;1.65;Slightly overweight;2.0;72.57;160.0;1
+18.0;0.0;24.11;Male;66.0;1.68;About the right weight;1.0;68.04;150.0;1
+18.0;1.0;28.32;Female;65.0;1.65;Very underweight;-1.0;77.11;170.0;-2
+18.0;0.0;24.5;Male;71.0;1.8;About the right weight;1.0;79.38;175.0;1
+17.0;0.0;23.78;Female;66.0;1.68;About the right weight;1.0;67.13;148.0;1
+16.0;-1.0;17.75;Male;70.0;1.78;Slightly underweight;0.0;56.25;124.0;1
+18.0;3.0;47.8;Female;64.0;1.63;Very overweight;3.0;127.01;280.0;0
+18.0;2.0;32.47;Male;73.0;1.85;Slightly overweight;2.0;111.13;245.0;0
+15.0;-1.0;16.23;Female;66.0;1.68;Slightly underweight;0.0;45.81;101.0;1
+15.0;0.0;20.86;Male;72.0;1.83;Slightly underweight;0.0;69.85;154.0;0
+16.0;0.0;23.7;Male;69.0;1.75;About the right weight;1.0;72.57;160.0;1
+19.0;0.0;24.19;Female;59.0;1.5;About the right weight;1.0;54.43;120.0;1
+15.0;2.0;31.83;Male;68.0;1.73;Very overweight;3.0;95.25;210.0;-5
+17.0;0.0;23.34;Male;68.0;1.73;About the right weight;1.0;69.85;154.0;1
+19.0;1.0;26.41;Male;72.0;1.83;Slightly overweight;2.0;88.45;195.0;1
+16.0;0.0;19.51;Female;62.0;1.57;Slightly underweight;0.0;48.08;106.0;0
+17.0;0.0;21.97;Female;67.0;1.7;About the right weight;1.0;63.5;140.0;1
+16.0;0.0;24.11;Female;66.0;1.68;Slightly overweight;2.0;68.04;150.0;2
+19.0;0.0;21.82;Male;67.0;1.7;About the right weight;1.0;63.05;139.0;1
+19.0;1.0;25.11;Male;67.0;1.7;Slightly overweight;2.0;72.57;160.0;1
+16.0;0.0;24.33;Male;67.0;1.7;About the right weight;1.0;70.31;155.0;1
+15.0;0.0;23.3;Male;66.0;1.68;Slightly overweight;2.0;65.77;145.0;2
+15.0;1.0;25.76;Male;62.0;1.57;Slightly overweight;2.0;63.5;140.0;1
+16.0;0.0;22.22;Male;69.0;1.75;About the right weight;1.0;68.04;150.0;1
+17.0;0.0;18.61;Male;70.0;1.78;About the right weight;1.0;58.97;130.0;1
+19.0;0.0;22.66;Male;69.0;1.75;About the right weight;1.0;69.4;153.0;1
+19.0;0.0;23.1;Male;74.0;1.88;About the right weight;1.0;81.65;180.0;1
+17.0;0.0;18.94;Female;68.0;1.73;About the right weight;1.0;56.7;125.0;1
+15.0;0.0;19.33;Male;70.0;1.78;About the right weight;1.0;61.23;135.0;1
+15.0;0.0;20.09;Female;66.0;1.68;Slightly overweight;2.0;56.7;125.0;2
+15.0;1.0;25.48;Female;70.0;1.78;Slightly overweight;2.0;80.74;178.0;1
+19.0;0.0;21.67;Male;72.0;1.83;About the right weight;1.0;72.57;160.0;1
+18.0;0.0;20.09;Male;76.0;1.93;About the right weight;1.0;74.84;165.0;1
+16.0;0.0;21.66;Female;65.0;1.65;Slightly overweight;2.0;58.97;130.0;2
+18.0;0.0;21.26;Female;63.0;1.6;About the right weight;1.0;54.43;120.0;1
+19.0;1.0;25.05;Male;70.0;1.78;About the right weight;1.0;79.38;175.0;0
+19.0;1.0;28.88;Female;69.0;1.75;Slightly overweight;2.0;88.45;195.0;1
+19.0;1.0;26.16;Male;65.0;1.65;About the right weight;1.0;71.21;157.0;0
+19.0;1.0;25.71;Female;66.0;1.68;Slightly overweight;2.0;72.57;160.0;1
+17.0;0.0;21.17;Male;74.0;1.88;Slightly underweight;0.0;74.84;165.0;0
+19.0;3.0;43.34;Male;72.0;1.83;Slightly overweight;2.0;145.15;320.0;5
+18.0;0.0;21.22;Female;68.0;1.73;Slightly overweight;2.0;63.5;140.0;2
+19.0;0.0;20.42;Female;60.0;1.52;About the right weight;1.0;47.17;104.0;1
+16.0;0.0;21.66;Female;65.0;1.65;Slightly overweight;2.0;58.97;130.0;2
+16.0;0.0;22.22;Male;69.0;1.75;About the right weight;1.0;68.04;150.0;1
+15.0;0.0;20.54;Male;73.0;1.85;About the right weight;1.0;70.31;155.0;1
+19.0;0.0;24.5;Male;71.0;1.8;About the right weight;1.0;79.38;175.0;1
+17.0;1.0;25.05;Male;70.0;1.78;About the right weight;1.0;79.38;175.0;0
+18.0;0.0;21.69;Male;66.0;1.68;About the right weight;1.0;61.23;135.0;1
+15.0;0.0;19.33;Female;65.0;1.65;About the right weight;1.0;52.62;116.0;1
+17.0;0.0;23.3;Female;66.0;1.68;Slightly overweight;2.0;65.77;145.0;2
+18.0;0.0;24.8;Female;63.0;1.6;About the right weight;1.0;63.5;140.0;1
+18.0;1.0;25.16;Male;63.0;1.6;About the right weight;1.0;64.41;142.0;0
+15.0;0.0;24.39;Female;53.0;1.35;About the right weight;1.0;44.45;98.0;1
+18.0;3.0;42.59;Male;66.0;1.68;Slightly overweight;2.0;120.2;265.0;5
+16.0;1.0;26.36;Male;66.0;1.68;About the right weight;1.0;74.39;164.0;0
+15.0;1.0;28.35;Female;63.0;1.6;About the right weight;1.0;72.57;160.0;0
+19.0;0.0;24.5;Male;71.0;1.8;Slightly overweight;2.0;79.38;175.0;2
+15.0;0.0;21.71;Female;62.0;1.57;About the right weight;1.0;53.52;118.0;1
+17.0;0.0;18.88;Male;76.0;1.93;Slightly underweight;0.0;70.31;155.0;0
+18.0;0.0;24.99;Female;65.0;1.65;Slightly overweight;2.0;68.04;150.0;2
+18.0;0.0;23.1;Female;71.0;1.8;About the right weight;1.0;74.84;165.0;1
+16.0;0.0;23.1;Male;74.0;1.88;About the right weight;1.0;81.65;180.0;1
+15.0;1.0;26.52;Female;66.0;1.68;Slightly overweight;2.0;74.84;165.0;1
+19.0;1.0;27.31;Male;64.0;1.63;About the right weight;1.0;72.57;160.0;0
+17.0;2.0;33.75;Male;66.0;1.68;Slightly overweight;2.0;95.25;210.0;0
+18.0;0.0;24.75;Female;64.0;1.63;Slightly overweight;2.0;65.77;145.0;2
+19.0;1.0;25.9;Male;67.0;1.7;Slightly overweight;2.0;74.84;165.0;1
+17.0;1.0;25.11;Female;67.0;1.7;Slightly underweight;0.0;72.57;160.0;-1
+16.0;1.0;28.35;Male;63.0;1.6;About the right weight;1.0;72.57;160.0;0
+16.0;1.0;26.31;Female;62.0;1.57;Slightly overweight;2.0;64.86;143.0;1
+16.0;2.0;30.59;Female;56.0;1.42;Very underweight;-1.0;61.69;136.0;-3
+15.0;0.0;23.0;Female;62.0;1.57;Slightly overweight;2.0;56.7;125.0;2
+19.0;0.0;23.04;Female;63.0;1.6;About the right weight;1.0;58.97;130.0;1
+18.0;0.0;23.32;Female;65.0;1.65;Very overweight;3.0;63.5;140.0;-3
+17.0;2.0;33.66;Female;63.0;1.6;Very overweight;3.0;86.18;190.0;-5
+17.0;0.0;23.19;Male;73.0;1.85;About the right weight;1.0;79.38;175.0;1
+15.0;0.0;23.8;Male;71.0;1.8;About the right weight;1.0;77.11;170.0;1
+16.0;1.0;25.2;Male;70.0;1.78;About the right weight;1.0;79.83;176.0;0
+19.0;1.0;25.18;Male;69.0;1.75;Very overweight;3.0;77.11;170.0;-4
+17.0;1.0;25.11;Male;67.0;1.7;Slightly overweight;2.0;72.57;160.0;1
+16.0;-1.0;15.61;Female;68.0;1.73;About the right weight;1.0;46.72;103.0;2
+17.0;0.0;21.6;Female;60.0;1.52;About the right weight;1.0;49.9;110.0;1
+16.0;0.0;20.03;Female;60.0;1.52;About the right weight;1.0;46.27;102.0;1
+18.0;0.0;23.0;Female;62.0;1.57;Slightly overweight;2.0;56.7;125.0;2
+17.0;0.0;20.24;Male;62.0;1.57;About the right weight;1.0;49.9;110.0;1
+17.0;0.0;20.99;Female;65.0;1.65;About the right weight;1.0;57.15;126.0;1
+15.0;0.0;19.78;Male;67.0;1.7;Slightly underweight;0.0;57.15;126.0;0
+18.0;0.0;24.55;Female;61.0;1.55;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;19.63;Female;61.0;1.55;About the right weight;1.0;47.17;104.0;1
+18.0;-1.0;16.71;Female;66.0;1.68;Very underweight;-1.0;47.17;104.0;0
+19.0;1.0;26.66;Male;69.0;1.75;About the right weight;1.0;81.65;180.0;0
+16.0;1.0;29.45;Female;60.0;1.52;Slightly overweight;2.0;68.04;150.0;1
+17.0;0.0;22.66;Female;61.0;1.55;About the right weight;1.0;54.43;120.0;1
+15.0;0.0;18.58;Female;62.0;1.57;Slightly underweight;0.0;45.81;101.0;0
+18.0;0.0;22.28;Male;68.0;1.73;About the right weight;1.0;66.68;147.0;1
+17.0;0.0;21.7;Male;71.0;1.8;About the right weight;1.0;70.31;155.0;1
+17.0;0.0;23.56;Female;60.0;1.52;About the right weight;1.0;54.43;120.0;1
+17.0;0.0;22.08;Female;62.0;1.57;About the right weight;1.0;54.43;120.0;1
+17.0;1.0;25.83;Female;65.0;1.65;Slightly overweight;2.0;70.31;155.0;1
+19.0;0.0;22.49;Female;65.0;1.65;About the right weight;1.0;61.23;135.0;1
+15.0;1.0;26.77;Male;70.0;1.78;About the right weight;1.0;84.82;187.0;0
+16.0;2.0;32.9;Male;71.0;1.8;About the right weight;1.0;106.59;235.0;-1
+19.0;0.0;21.22;Male;68.0;1.73;About the right weight;1.0;63.5;140.0;1
+17.0;0.0;19.63;Female;60.0;1.52;About the right weight;1.0;45.36;100.0;1
+17.0;0.0;23.63;Male;66.0;1.68;About the right weight;1.0;66.68;147.0;1
+19.0;1.0;28.32;Female;65.0;1.65;Slightly overweight;2.0;77.11;170.0;1
+15.0;2.0;30.16;Male;68.0;1.73;Slightly overweight;2.0;90.26;199.0;0
+17.0;0.0;18.9;Female;71.0;1.8;About the right weight;1.0;61.23;135.0;1
+17.0;0.0;22.15;Female;63.0;1.6;About the right weight;1.0;56.7;125.0;1
+17.0;2.0;37.11;Male;73.0;1.85;Very overweight;3.0;127.01;280.0;-5
+16.0;0.0;18.95;Female;62.0;1.57;Slightly overweight;2.0;46.72;103.0;2
+16.0;0.0;19.25;Female;68.0;1.73;About the right weight;1.0;57.61;127.0;1
+15.0;0.0;20.39;Male;75.0;1.91;About the right weight;1.0;74.39;164.0;1
+15.0;0.0;19.99;Male;65.0;1.65;Slightly underweight;0.0;54.43;120.0;0
+18.0;0.0;18.78;Female;64.0;1.63;About the right weight;1.0;49.9;110.0;1
+19.0;0.0;19.62;Female;67.0;1.7;About the right weight;1.0;56.7;125.0;1
+17.0;0.0;21.2;Female;60.0;1.52;About the right weight;1.0;48.99;108.0;1
+17.0;2.0;38.51;Male;69.0;1.75;Slightly overweight;2.0;117.93;260.0;0
+16.0;2.0;33.34;Male;68.0;1.73;Slightly overweight;2.0;99.79;220.0;0
+17.0;2.0;31.15;Male;72.0;1.83;Slightly overweight;2.0;104.33;230.0;0
+15.0;0.0;19.29;Female;66.0;1.68;About the right weight;1.0;54.43;120.0;1
+15.0;0.0;21.34;Male;73.0;1.85;About the right weight;1.0;73.03;161.0;1
+17.0;0.0;20.3;Male;71.0;1.8;Slightly underweight;0.0;65.77;145.0;0
+15.0;-1.0;18.4;Female;62.0;1.57;About the right weight;1.0;45.36;100.0;2
+18.0;2.0;36.41;Male;67.0;1.7;Very overweight;3.0;105.23;232.0;-5
+15.0;-1.0;18.48;Female;66.0;1.68;About the right weight;1.0;52.16;115.0;2
+19.0;0.0;19.99;Male;69.0;1.75;About the right weight;1.0;61.23;135.0;1
+19.0;1.0;25.11;Male;67.0;1.7;About the right weight;1.0;72.57;160.0;0
+18.0;2.0;33.38;Female;60.0;1.52;Slightly overweight;2.0;77.11;170.0;0
+17.0;0.0;22.82;Male;66.0;1.68;About the right weight;1.0;64.41;142.0;1
+16.0;0.0;18.95;Female;62.0;1.57;Slightly underweight;0.0;46.72;103.0;0
+16.0;-1.0;18.19;Male;68.0;1.73;Slightly underweight;0.0;54.43;120.0;1
+18.0;0.0;24.34;Male;70.0;1.78;About the right weight;1.0;77.11;170.0;1
+16.0;0.0;22.18;Female;59.0;1.5;About the right weight;1.0;49.9;110.0;1
+18.0;1.0;27.32;Male;66.0;1.68;About the right weight;1.0;77.11;170.0;0
+16.0;0.0;23.9;Male;64.0;1.63;About the right weight;1.0;63.5;140.0;1
+16.0;0.0;18.61;Male;70.0;1.78;Slightly underweight;0.0;58.97;130.0;0
+19.0;1.0;27.31;Female;64.0;1.63;Slightly overweight;2.0;72.57;160.0;1
+18.0;0.0;20.4;Male;67.0;1.7;About the right weight;1.0;58.97;130.0;1
+17.0;1.0;25.92;Male;69.0;1.75;About the right weight;1.0;79.38;175.0;0
+16.0;0.0;22.73;Male;68.0;1.73;About the right weight;1.0;68.04;150.0;1
+17.0;0.0;24.25;Male;68.0;1.73;Slightly overweight;2.0;72.57;160.0;2
+17.0;0.0;23.92;Female;62.0;1.57;Slightly overweight;2.0;58.97;130.0;2
+17.0;0.0;21.69;Female;66.0;1.68;Slightly overweight;2.0;61.23;135.0;2
+17.0;0.0;21.69;Female;66.0;1.68;About the right weight;1.0;61.23;135.0;1
+16.0;0.0;20.49;Female;64.0;1.63;Slightly overweight;2.0;54.43;120.0;2
+18.0;0.0;24.45;Female;63.0;1.6;About the right weight;1.0;62.6;138.0;1
+19.0;-1.0;17.72;Female;63.0;1.6;Slightly underweight;0.0;45.36;100.0;1
+16.0;0.0;24.52;Male;73.0;1.85;About the right weight;1.0;83.91;185.0;1
+17.0;1.0;28.23;Male;74.0;1.88;About the right weight;1.0;99.79;220.0;0
+18.0;0.0;19.49;Female;63.0;1.6;About the right weight;1.0;49.9;110.0;1
+17.0;0.0;22.49;Female;65.0;1.65;About the right weight;1.0;61.23;135.0;1
+15.0;0.0;20.4;Female;67.0;1.7;About the right weight;1.0;58.97;130.0;1
+16.0;0.0;22.35;Male;72.0;1.83;About the right weight;1.0;74.84;165.0;1
+18.0;0.0;24.52;Male;73.0;1.85;About the right weight;1.0;83.91;185.0;1
+18.0;0.0;24.34;Male;70.0;1.78;About the right weight;1.0;77.11;170.0;1
+19.0;0.0;18.61;Male;70.0;1.78;Slightly underweight;0.0;58.97;130.0;0
+15.0;1.0;25.57;Male;76.0;1.93;About the right weight;1.0;95.25;210.0;0
+15.0;-1.0;17.72;Female;63.0;1.6;Slightly underweight;0.0;45.36;100.0;1
+17.0;0.0;23.1;Male;71.0;1.8;About the right weight;1.0;74.84;165.0;1
+15.0;0.0;18.78;Male;64.0;1.63;About the right weight;1.0;49.9;110.0;1
+18.0;1.0;25.11;Male;67.0;1.7;Slightly overweight;2.0;72.57;160.0;1
+16.0;0.0;21.47;Male;70.0;1.78;About the right weight;1.0;68.04;150.0;1
+15.0;0.0;19.26;Male;69.0;1.75;Slightly underweight;0.0;58.97;130.0;0
+17.0;1.0;25.49;Female;61.0;1.55;About the right weight;1.0;61.23;135.0;0
+18.0;0.0;20.96;Female;59.0;1.5;About the right weight;1.0;47.17;104.0;1
+17.0;0.0;19.25;Male;74.0;1.88;About the right weight;1.0;68.04;150.0;1
+15.0;-1.0;18.05;Female;67.0;1.7;About the right weight;1.0;52.16;115.0;2
+18.0;0.0;20.46;Female;68.0;1.73;About the right weight;1.0;61.23;135.0;1
+15.0;0.0;23.8;Male;71.0;1.8;About the right weight;1.0;77.11;170.0;1
+16.0;0.0;18.78;Female;64.0;1.63;About the right weight;1.0;49.9;110.0;1
+17.0;0.0;19.7;Male;68.0;1.73;About the right weight;1.0;58.97;130.0;1
+16.0;0.0;19.77;Male;72.0;1.83;Slightly underweight;0.0;66.22;146.0;0
+17.0;0.0;22.76;Male;67.0;1.7;About the right weight;1.0;65.77;145.0;1
+17.0;0.0;19.14;Female;62.0;1.57;Very underweight;-1.0;47.17;104.0;-1
+19.0;0.0;19.16;Male;65.0;1.65;About the right weight;1.0;52.16;115.0;1
+18.0;0.0;20.09;Male;66.0;1.68;About the right weight;1.0;56.7;125.0;1
+19.0;1.0;27.32;Male;66.0;1.68;Slightly overweight;2.0;77.11;170.0;1
+16.0;1.0;26.11;Male;75.0;1.91;Slightly overweight;2.0;95.25;210.0;1
+18.0;-1.0;17.75;Female;64.0;1.63;About the right weight;1.0;47.17;104.0;2
+17.0;0.0;19.49;Female;63.0;1.6;About the right weight;1.0;49.9;110.0;1
+17.0;0.0;21.97;Male;67.0;1.7;About the right weight;1.0;63.5;140.0;1
+17.0;0.0;23.7;Male;69.0;1.75;About the right weight;1.0;72.57;160.0;1
+15.0;0.0;20.04;Male;70.0;1.78;About the right weight;1.0;63.5;140.0;1
+16.0;0.0;22.22;Male;69.0;1.75;Slightly overweight;2.0;68.04;150.0;2
+19.0;0.0;20.89;Female;66.0;1.68;Slightly overweight;2.0;58.97;130.0;2
+16.0;0.0;21.69;Male;66.0;1.68;About the right weight;1.0;61.23;135.0;1
+17.0;1.0;29.8;Male;72.0;1.83;Slightly overweight;2.0;99.79;220.0;1
+16.0;2.0;30.45;Female;67.0;1.7;Slightly overweight;2.0;88.0;194.0;0
+18.0;0.0;19.26;Female;69.0;1.75;About the right weight;1.0;58.97;130.0;1
+17.0;1.0;27.49;Female;65.0;1.65;Slightly overweight;2.0;74.84;165.0;1
+16.0;0.0;19.99;Female;65.0;1.65;About the right weight;1.0;54.43;120.0;1
+20.0;3.0;40.6;Male;71.0;1.8;Very overweight;3.0;131.54;290.0;0
+17.0;0.0;22.5;Female;66.0;1.68;Slightly overweight;2.0;63.5;140.0;2
+16.0;0.0;24.52;Male;73.0;1.85;About the right weight;1.0;83.91;185.0;1
+16.0;0.0;21.48;Male;69.0;1.75;About the right weight;1.0;65.77;145.0;1
+16.0;1.0;25.62;Male;70.0;1.78;Slightly overweight;2.0;81.19;179.0;1
+17.0;0.0;22.15;Female;63.0;1.6;About the right weight;1.0;56.7;125.0;1
+15.0;1.0;25.76;Female;62.0;1.57;Slightly overweight;2.0;63.5;140.0;1
+18.0;2.0;30.9;Female;64.0;1.63;Slightly overweight;2.0;82.1;181.0;0
+20.0;2.0;30.39;Female;64.0;1.63;Very overweight;3.0;80.74;178.0;-5
+18.0;0.0;19.15;Female;59.0;1.5;Slightly underweight;0.0;43.09;95.0;0
+19.0;-1.0;18.19;Female;68.0;1.73;Slightly underweight;0.0;54.43;120.0;1
+17.0;-1.0;17.88;Female;68.0;1.73;About the right weight;1.0;53.52;118.0;2
+18.0;0.0;22.9;Male;70.0;1.78;Slightly overweight;2.0;72.57;160.0;2
+18.0;0.0;21.97;Female;63.0;1.6;About the right weight;1.0;56.25;124.0;1
+15.0;0.0;23.04;Male;68.0;1.73;About the right weight;1.0;68.95;152.0;1
+15.0;1.0;26.68;Male;67.0;1.7;Slightly overweight;2.0;77.11;170.0;1
+18.0;1.0;26.68;Female;62.0;1.57;Slightly overweight;2.0;65.77;145.0;1
+16.0;2.0;31.41;Female;60.0;1.52;Slightly underweight;0.0;72.57;160.0;-2
+19.0;-1.0;17.93;Male;78.0;1.98;Slightly underweight;0.0;70.31;155.0;1
+17.0;0.0;20.49;Female;64.0;1.63;About the right weight;1.0;54.43;120.0;1
+16.0;0.0;19.48;Male;73.0;1.85;About the right weight;1.0;66.68;147.0;1
+17.0;1.0;25.76;Female;68.0;1.73;Slightly overweight;2.0;77.11;170.0;1
+18.0;0.0;19.62;Female;67.0;1.7;About the right weight;1.0;56.7;125.0;1
+15.0;0.0;20.88;Male;67.0;1.7;About the right weight;1.0;60.33;133.0;1
+15.0;0.0;23.1;Male;74.0;1.88;About the right weight;1.0;81.65;180.0;1
+15.0;1.0;27.83;Male;73.0;1.85;Slightly overweight;2.0;95.25;210.0;1
+19.0;0.0;24.66;Female;65.0;1.65;About the right weight;1.0;67.13;148.0;1
+17.0;0.0;19.49;Female;65.0;1.65;About the right weight;1.0;53.07;117.0;1
+15.0;0.0;20.46;Male;68.0;1.73;About the right weight;1.0;61.23;135.0;1
+16.0;0.0;20.49;Female;64.0;1.63;About the right weight;1.0;54.43;120.0;1
+18.0;1.0;26.68;Male;67.0;1.7;Slightly underweight;0.0;77.11;170.0;-1
+16.0;0.0;23.49;Male;68.0;1.73;About the right weight;1.0;70.31;155.0;1
+18.0;1.0;25.61;Female;64.0;1.63;Slightly overweight;2.0;68.04;150.0;1
+17.0;1.0;28.0;Male;71.0;1.8;Very overweight;3.0;90.72;200.0;-4
+17.0;1.0;25.18;Male;69.0;1.75;About the right weight;1.0;77.11;170.0;0
+17.0;1.0;26.58;Female;63.0;1.6;About the right weight;1.0;68.04;150.0;0
+17.0;0.0;24.34;Male;70.0;1.78;Slightly overweight;2.0;77.11;170.0;2
+17.0;0.0;22.62;Male;72.0;1.83;About the right weight;1.0;75.75;167.0;1
+15.0;-1.0;16.88;Female;60.0;1.52;Slightly underweight;0.0;39.01;86.0;1
+18.0;0.0;20.3;Male;71.0;1.8;Slightly underweight;0.0;65.77;145.0;0
+18.0;1.0;29.52;Male;74.0;1.88;Slightly overweight;2.0;104.33;230.0;1
+16.0;0.0;19.99;Female;65.0;1.65;About the right weight;1.0;54.43;120.0;1
+16.0;0.0;21.97;Female;67.0;1.7;Slightly overweight;2.0;63.5;140.0;2
+19.0;-1.0;17.94;Female;61.0;1.55;About the right weight;1.0;43.09;95.0;2
+18.0;0.0;19.62;Female;67.0;1.7;About the right weight;1.0;56.7;125.0;1
+16.0;0.0;20.99;Male;72.0;1.83;Slightly overweight;2.0;70.31;155.0;2
+18.0;0.0;23.92;Female;63.0;1.6;About the right weight;1.0;61.23;135.0;1
+15.0;0.0;19.49;Male;63.0;1.6;About the right weight;1.0;49.9;110.0;1
+18.0;0.0;20.83;Female;65.0;1.65;Slightly overweight;2.0;56.7;125.0;2
+17.0;0.0;22.38;Male;75.0;1.91;About the right weight;1.0;81.65;180.0;1
+19.0;0.0;21.76;Male;75.0;1.91;About the right weight;1.0;79.38;175.0;1
+17.0;1.0;29.22;Male;75.0;1.91;Slightly overweight;2.0;106.59;235.0;1
+15.0;-1.0;16.57;Male;73.0;1.85;About the right weight;1.0;56.7;125.0;2
+18.0;1.0;28.28;Male;71.0;1.8;About the right weight;1.0;91.63;202.0;0
+17.0;0.0;21.47;Male;70.0;1.78;About the right weight;1.0;68.04;150.0;1
+15.0;-1.0;16.42;Female;61.0;1.55;Very underweight;-1.0;39.46;87.0;0
+17.0;0.0;18.69;Female;61.0;1.55;About the right weight;1.0;44.91;99.0;1
+15.0;0.0;19.32;Female;62.0;1.57;About the right weight;1.0;47.63;105.0;1
+15.0;1.0;25.47;Male;72.0;1.83;About the right weight;1.0;85.28;188.0;0
+19.0;0.0;21.97;Female;67.0;1.7;Slightly overweight;2.0;63.5;140.0;2
+17.0;0.0;21.99;Male;65.0;1.65;About the right weight;1.0;59.87;132.0;1
+19.0;1.0;25.73;Male;72.0;1.83;Slightly overweight;2.0;86.18;190.0;1
+15.0;0.0;21.09;Female;63.0;1.6;About the right weight;1.0;53.98;119.0;1
+19.0;0.0;22.44;Male;67.0;1.7;About the right weight;1.0;64.86;143.0;1
+17.0;0.0;22.5;Female;66.0;1.68;Slightly overweight;2.0;63.5;140.0;2
+19.0;1.0;25.73;Male;72.0;1.83;Slightly overweight;2.0;86.18;190.0;1
+17.0;0.0;22.13;Male;68.0;1.73;About the right weight;1.0;66.22;146.0;1
+16.0;0.0;21.98;Male;68.0;1.73;About the right weight;1.0;65.77;145.0;1
+18.0;0.0;20.4;Female;67.0;1.7;Slightly overweight;2.0;58.97;130.0;2
+17.0;0.0;19.63;Female;64.0;1.63;About the right weight;1.0;52.16;115.0;1
+15.0;0.0;20.49;Female;64.0;1.63;About the right weight;1.0;54.43;120.0;1
+16.0;0.0;23.1;Male;71.0;1.8;About the right weight;1.0;74.84;165.0;1
+20.0;2.0;30.16;Male;74.0;1.88;Slightly overweight;2.0;106.59;235.0;0
+17.0;0.0;21.2;Male;73.0;1.85;About the right weight;1.0;72.57;160.0;1
+19.0;0.0;23.7;Female;69.0;1.75;Slightly overweight;2.0;72.57;160.0;2
+17.0;1.0;25.2;Male;71.0;1.8;About the right weight;1.0;81.65;180.0;0
+16.0;0.0;23.9;Female;64.0;1.63;About the right weight;1.0;63.5;140.0;1
+18.0;1.0;25.49;Female;65.0;1.65;About the right weight;1.0;69.4;153.0;0
+15.0;0.0;21.26;Female;63.0;1.6;Slightly overweight;2.0;54.43;120.0;2
+16.0;2.0;36.32;Female;66.0;1.68;Very overweight;3.0;102.51;226.0;-5
+15.0;-1.0;18.03;Male;62.0;1.57;About the right weight;1.0;44.45;98.0;2
+17.0;1.0;28.66;Female;65.0;1.65;Slightly overweight;2.0;78.02;172.0;1
+19.0;0.0;23.58;Male;79.0;2.01;Slightly underweight;0.0;95.25;210.0;0
+15.0;0.0;19.49;Female;63.0;1.6;Slightly underweight;0.0;49.9;110.0;0
+19.0;0.0;21.53;Female;66.0;1.68;About the right weight;1.0;60.78;134.0;1
+16.0;0.0;20.73;Male;69.0;1.75;About the right weight;1.0;63.5;140.0;1
+15.0;0.0;23.92;Female;62.0;1.57;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;21.97;Male;67.0;1.7;Slightly underweight;0.0;63.5;140.0;0
+16.0;2.0;35.55;Male;69.0;1.75;Slightly overweight;2.0;108.86;240.0;0
+17.0;0.0;20.32;Male;72.0;1.83;About the right weight;1.0;68.04;150.0;1
+16.0;1.0;28.35;Female;63.0;1.6;Slightly overweight;2.0;72.57;160.0;1
+17.0;1.0;25.2;Male;71.0;1.8;Slightly overweight;2.0;81.65;180.0;1
+15.0;0.0;18.96;Female;63.0;1.6;About the right weight;1.0;48.53;107.0;1
+19.0;0.0;21.47;Male;70.0;1.78;About the right weight;1.0;68.04;150.0;1
+19.0;0.0;21.22;Male;68.0;1.73;Slightly underweight;0.0;63.5;140.0;0
+17.0;-1.0;15.96;Male;80.0;2.03;Slightly underweight;0.0;65.77;145.0;1
+15.0;0.0;21.22;Male;68.0;1.73;About the right weight;1.0;63.5;140.0;1
+15.0;0.0;20.7;Male;76.0;1.93;About the right weight;1.0;77.11;170.0;1
+19.0;1.0;27.6;Female;62.0;1.57;About the right weight;1.0;68.04;150.0;0
+17.0;3.0;41.47;Male;69.0;1.75;About the right weight;1.0;127.01;280.0;4
+17.0;0.0;21.21;Male;66.0;1.68;Slightly underweight;0.0;59.87;132.0;0
+19.0;1.0;27.6;Female;62.0;1.57;About the right weight;1.0;68.04;150.0;0
+18.0;0.0;20.43;Female;62.0;1.57;About the right weight;1.0;50.35;111.0;1
+19.0;1.0;26.68;Female;62.0;1.57;Slightly overweight;2.0;65.77;145.0;1
+17.0;0.0;21.98;Male;68.0;1.73;Slightly underweight;0.0;65.77;145.0;0
+18.0;1.0;27.28;Female;68.0;1.73;Slightly overweight;2.0;81.65;180.0;1
+17.0;0.0;23.19;Female;70.0;1.78;About the right weight;1.0;73.48;162.0;1
+15.0;0.0;20.32;Male;72.0;1.83;About the right weight;1.0;68.04;150.0;1
+17.0;0.0;21.97;Male;67.0;1.7;Slightly underweight;0.0;63.5;140.0;0
+16.0;0.0;24.55;Female;61.0;1.55;Slightly underweight;0.0;58.97;130.0;0
+15.0;0.0;23.49;Male;68.0;1.73;About the right weight;1.0;70.31;155.0;1
+15.0;0.0;22.53;Female;64.0;1.63;About the right weight;1.0;59.87;132.0;1
+17.0;0.0;22.73;Male;68.0;1.73;About the right weight;1.0;68.04;150.0;1
+18.0;0.0;21.67;Male;72.0;1.83;About the right weight;1.0;72.57;160.0;1
+17.0;0.0;20.15;Male;74.0;1.88;About the right weight;1.0;71.21;157.0;1
+18.0;1.0;26.73;Male;75.0;1.91;About the right weight;1.0;97.52;215.0;0
+19.0;2.0;30.06;Male;70.0;1.78;Slightly overweight;2.0;95.25;210.0;0
+18.0;0.0;24.34;Female;70.0;1.78;Slightly overweight;2.0;77.11;170.0;2
+16.0;0.0;23.8;Male;71.0;1.8;About the right weight;1.0;77.11;170.0;1
+16.0;0.0;18.9;Male;71.0;1.8;About the right weight;1.0;61.23;135.0;1
+17.0;0.0;21.0;Male;71.0;1.8;About the right weight;1.0;68.04;150.0;1
+19.0;0.0;24.8;Female;63.0;1.6;Slightly overweight;2.0;63.5;140.0;2
+17.0;0.0;23.7;Male;72.0;1.83;Slightly overweight;2.0;79.38;175.0;2
+15.0;2.0;33.75;Female;66.0;1.68;Very overweight;3.0;95.25;210.0;-5
+16.0;0.0;22.2;Female;64.0;1.63;About the right weight;1.0;58.97;130.0;1
+19.0;1.0;25.2;Male;71.0;1.8;About the right weight;1.0;81.65;180.0;0
+15.0;0.0;23.55;Female;62.0;1.57;Slightly overweight;2.0;58.06;128.0;2
+18.0;0.0;22.38;Male;75.0;1.91;About the right weight;1.0;81.65;180.0;1
+15.0;0.0;18.61;Female;70.0;1.78;About the right weight;1.0;58.97;130.0;1
+18.0;0.0;23.04;Female;63.0;1.6;About the right weight;1.0;58.97;130.0;1
+19.0;0.0;23.05;Female;64.0;1.63;Slightly overweight;2.0;61.23;135.0;2
+15.0;0.0;21.0;Female;64.0;1.63;Slightly overweight;2.0;55.79;123.0;2
+17.0;1.0;26.79;Male;76.0;1.93;About the right weight;1.0;99.79;220.0;0
+18.0;0.0;20.49;Male;65.0;1.65;Slightly underweight;0.0;55.79;123.0;0
+18.0;-1.0;16.83;Female;63.0;1.6;About the right weight;1.0;43.09;95.0;2
+14.0;0.0;21.69;Female;66.0;1.68;Slightly overweight;2.0;61.23;135.0;2
+17.0;0.0;23.7;Female;69.0;1.75;Slightly overweight;2.0;72.57;160.0;2
+17.0;0.0;19.62;Female;67.0;1.7;About the right weight;1.0;56.7;125.0;1
+17.0;-1.0;17.5;Male;71.0;1.8;About the right weight;1.0;56.7;125.0;2
+17.0;0.0;18.75;Male;70.0;1.78;Slightly underweight;0.0;59.42;131.0;0
+19.0;0.0;20.54;Male;73.0;1.85;Slightly underweight;0.0;70.31;155.0;0
+17.0;0.0;22.19;Male;70.0;1.78;About the right weight;1.0;70.31;155.0;1
+18.0;0.0;24.38;Male;74.0;1.88;About the right weight;1.0;86.18;190.0;1
+16.0;0.0;23.04;Female;63.0;1.6;Slightly overweight;2.0;58.97;130.0;2
+16.0;0.0;21.69;Female;66.0;1.68;About the right weight;1.0;61.23;135.0;1
+17.0;-1.0;18.29;Male;73.0;1.85;About the right weight;1.0;62.6;138.0;2
+14.0;2.0;30.82;Female;65.0;1.65;About the right weight;1.0;83.91;185.0;-1
+16.0;0.0;21.98;Male;68.0;1.73;About the right weight;1.0;65.77;145.0;1
+16.0;1.0;25.05;Male;73.0;1.85;About the right weight;1.0;85.73;189.0;0
+17.0;1.0;25.76;Female;62.0;1.57;Slightly overweight;2.0;63.5;140.0;1
+15.0;1.0;25.76;Female;68.0;1.73;Slightly overweight;2.0;77.11;170.0;1
+19.0;0.0;19.49;Female;65.0;1.65;About the right weight;1.0;53.07;117.0;1
+17.0;1.0;27.2;Male;70.0;1.78;Slightly overweight;2.0;86.18;190.0;1
+16.0;1.0;29.22;Male;75.0;1.91;Slightly overweight;2.0;106.59;235.0;1
+17.0;-1.0;18.48;Female;66.0;1.68;About the right weight;1.0;52.16;115.0;2
+17.0;0.0;21.82;Male;74.0;1.88;About the right weight;1.0;77.11;170.0;1
+18.0;0.0;23.56;Female;60.0;1.52;About the right weight;1.0;54.43;120.0;1
+19.0;0.0;18.61;Male;70.0;1.78;Slightly underweight;0.0;58.97;130.0;0
+18.0;0.0;23.7;Male;69.0;1.75;About the right weight;1.0;72.57;160.0;1
+16.0;0.0;23.46;Male;73.0;1.85;Slightly overweight;2.0;80.29;177.0;2
+15.0;0.0;22.19;Male;70.0;1.78;About the right weight;1.0;70.31;155.0;1
+18.0;0.0;19.49;Female;63.0;1.6;Slightly underweight;0.0;49.9;110.0;0
+15.0;0.0;20.32;Male;72.0;1.83;About the right weight;1.0;68.04;150.0;1
+19.0;0.0;22.73;Female;68.0;1.73;Slightly overweight;2.0;68.04;150.0;2
+15.0;0.0;21.16;Female;62.0;1.57;About the right weight;1.0;52.16;115.0;1
+15.0;0.0;19.62;Female;67.0;1.7;About the right weight;1.0;56.7;125.0;1
+17.0;0.0;24.8;Female;63.0;1.6;Slightly overweight;2.0;63.5;140.0;2
+16.0;0.0;18.61;Female;63.0;1.6;About the right weight;1.0;47.63;105.0;1
+15.0;0.0;20.4;Male;67.0;1.7;About the right weight;1.0;58.97;130.0;1
+18.0;1.0;27.47;Male;67.0;1.7;Slightly overweight;2.0;79.38;175.0;1
+17.0;0.0;21.53;Female;62.0;1.57;About the right weight;1.0;53.07;117.0;1
+15.0;0.0;23.07;Male;67.0;1.7;About the right weight;1.0;66.68;147.0;1
+18.0;0.0;21.67;Male;72.0;1.83;About the right weight;1.0;72.57;160.0;1
+14.0;0.0;20.24;Male;62.0;1.57;About the right weight;1.0;49.9;110.0;1
+17.0;0.0;21.19;Male;67.0;1.7;About the right weight;1.0;61.23;135.0;1
+19.0;1.0;25.2;Male;71.0;1.8;About the right weight;1.0;81.65;180.0;0
+16.0;0.0;20.99;Male;72.0;1.83;About the right weight;1.0;70.31;155.0;1
+17.0;-1.0;15.91;Female;68.0;1.73;About the right weight;1.0;47.63;105.0;2
+18.0;0.0;23.1;Male;71.0;1.8;About the right weight;1.0;74.84;165.0;1
+16.0;0.0;21.67;Male;72.0;1.83;About the right weight;1.0;72.57;160.0;1
+17.0;0.0;20.3;Male;71.0;1.8;About the right weight;1.0;65.77;145.0;1
+17.0;0.0;19.7;Female;68.0;1.73;About the right weight;1.0;58.97;130.0;1
+16.0;0.0;19.63;Female;64.0;1.63;About the right weight;1.0;52.16;115.0;1
+18.0;0.0;19.16;Female;65.0;1.65;Slightly overweight;2.0;52.16;115.0;2
+16.0;0.0;20.3;Male;71.0;1.8;About the right weight;1.0;65.77;145.0;1
+18.0;0.0;24.33;Male;67.0;1.7;About the right weight;1.0;70.31;155.0;1
+17.0;0.0;20.73;Male;69.0;1.75;Slightly underweight;0.0;63.5;140.0;0
+15.0;0.0;18.77;Female;62.0;1.57;Slightly underweight;0.0;46.27;102.0;0
+16.0;0.0;21.21;Female;66.0;1.68;About the right weight;1.0;59.87;132.0;1
+17.0;0.0;21.7;Male;71.0;1.8;About the right weight;1.0;70.31;155.0;1
+19.0;1.0;26.11;Male;75.0;1.91;Slightly overweight;2.0;95.25;210.0;1
+16.0;0.0;23.1;Male;71.0;1.8;About the right weight;1.0;74.84;165.0;1
+17.0;1.0;28.7;Female;63.0;1.6;About the right weight;1.0;73.48;162.0;0
+16.0;1.0;26.98;Male;68.0;1.73;About the right weight;1.0;80.74;178.0;0
+19.0;0.0;22.76;Female;67.0;1.7;About the right weight;1.0;65.77;145.0;1
+18.0;0.0;20.99;Male;72.0;1.83;About the right weight;1.0;70.31;155.0;1
+18.0;-1.0;18.2;Female;71.0;1.8;About the right weight;1.0;58.97;130.0;2
+16.0;-1.0;18.49;Female;68.0;1.73;Slightly underweight;0.0;55.34;122.0;1
+19.0;-1.0;17.27;Female;67.0;1.7;Slightly underweight;0.0;49.9;110.0;1
+15.0;1.0;25.16;Female;63.0;1.6;About the right weight;1.0;64.41;142.0;0
+18.0;0.0;24.59;Female;66.0;1.68;About the right weight;1.0;69.4;153.0;1
+17.0;0.0;24.92;Female;61.0;1.55;Slightly overweight;2.0;59.87;132.0;2
+16.0;1.0;28.82;Male;65.0;1.65;Slightly overweight;2.0;78.47;173.0;1
+18.0;0.0;18.99;Female;65.0;1.65;Slightly underweight;0.0;51.71;114.0;0
+19.0;0.0;19.99;Male;69.0;1.75;Slightly underweight;0.0;61.23;135.0;0
+15.0;0.0;21.99;Male;65.0;1.65;About the right weight;1.0;59.87;132.0;1
+19.0;1.0;26.99;Female;65.0;1.65;About the right weight;1.0;73.48;162.0;0
+19.0;1.0;28.25;Female;67.0;1.7;Slightly overweight;2.0;81.65;180.0;1
+14.0;-1.0;17.89;Male;67.0;1.7;About the right weight;1.0;51.71;114.0;2
+19.0;0.0;20.83;Female;64.0;1.63;Slightly underweight;0.0;55.34;122.0;0
+17.0;0.0;22.02;Female;64.0;1.63;About the right weight;1.0;58.51;129.0;1
+16.0;0.0;22.19;Male;70.0;1.78;About the right weight;1.0;70.31;155.0;1
+16.0;0.0;22.5;Female;66.0;1.68;Slightly overweight;2.0;63.5;140.0;2
+17.0;-1.0;17.27;Male;67.0;1.7;Very underweight;-1.0;49.9;110.0;0
+15.0;0.0;23.62;Male;70.0;1.78;About the right weight;1.0;74.84;165.0;1
+16.0;0.0;21.19;Female;67.0;1.7;About the right weight;1.0;61.23;135.0;1
+16.0;0.0;18.51;Female;69.0;1.75;About the right weight;1.0;56.7;125.0;1
+15.0;0.0;18.83;Male;67.0;1.7;Slightly underweight;0.0;54.43;120.0;0
+17.0;0.0;20.4;Female;67.0;1.7;About the right weight;1.0;58.97;130.0;1
+19.0;1.0;25.18;Male;73.0;1.85;About the right weight;1.0;86.18;190.0;0
+19.0;1.0;26.66;Male;65.0;1.65;Slightly overweight;2.0;72.57;160.0;1
+18.0;0.0;19.32;Female;62.0;1.57;About the right weight;1.0;47.63;105.0;1
+19.0;0.0;21.66;Female;65.0;1.65;About the right weight;1.0;58.97;130.0;1
+15.0;0.0;20.4;Female;67.0;1.7;Slightly overweight;2.0;58.97;130.0;2
+17.0;0.0;20.4;Female;67.0;1.7;About the right weight;1.0;58.97;130.0;1
+16.0;0.0;24.38;Male;72.0;1.83;About the right weight;1.0;81.65;180.0;1
+19.0;0.0;22.19;Male;70.0;1.78;About the right weight;1.0;70.31;155.0;1
+16.0;-1.0;17.07;Female;64.0;1.63;Slightly underweight;0.0;45.36;100.0;1
+19.0;0.0;23.32;Male;65.0;1.65;About the right weight;1.0;63.5;140.0;1
+18.0;0.0;20.14;Female;64.0;1.63;About the right weight;1.0;53.52;118.0;1
+17.0;0.0;20.73;Male;69.0;1.75;Slightly underweight;0.0;63.5;140.0;0
+15.0;0.0;19.77;Female;66.0;1.68;Slightly underweight;0.0;55.79;123.0;0
+19.0;2.0;34.86;Female;68.0;1.73;Very overweight;3.0;104.33;230.0;-5
+18.0;0.0;23.0;Female;62.0;1.57;About the right weight;1.0;56.7;125.0;1
+16.0;0.0;23.04;Female;63.0;1.6;Slightly overweight;2.0;58.97;130.0;2
+16.0;0.0;21.47;Male;70.0;1.78;About the right weight;1.0;68.04;150.0;1
+15.0;0.0;22.08;Female;62.0;1.57;About the right weight;1.0;54.43;120.0;1
+16.0;0.0;21.51;Female;64.0;1.63;About the right weight;1.0;57.15;126.0;1
+18.0;0.0;20.4;Female;67.0;1.7;Slightly overweight;2.0;58.97;130.0;2
+19.0;0.0;23.7;Male;72.0;1.83;About the right weight;1.0;79.38;175.0;1
+18.0;0.0;23.49;Female;68.0;1.73;Slightly overweight;2.0;70.31;155.0;2
+17.0;0.0;20.89;Male;66.0;1.68;Slightly underweight;0.0;58.97;130.0;0
+17.0;1.0;27.09;Male;72.0;1.83;Slightly overweight;2.0;90.72;200.0;1
+15.0;0.0;22.22;Male;69.0;1.75;About the right weight;1.0;68.04;150.0;1
+19.0;1.0;25.69;Female;63.0;1.6;Slightly overweight;2.0;65.77;145.0;1
+15.0;-1.0;15.16;Female;65.0;1.65;Very underweight;-1.0;41.28;91.0;0
+15.0;1.0;27.17;Male;73.0;1.85;Slightly overweight;2.0;92.99;205.0;1
+17.0;0.0;18.9;Male;71.0;1.8;Slightly underweight;0.0;61.23;135.0;0
+16.0;0.0;20.92;Male;68.0;1.73;About the right weight;1.0;62.6;138.0;1
+16.0;2.0;31.89;Female;63.0;1.6;Very overweight;3.0;81.65;180.0;-5
+15.0;0.0;18.77;Female;62.0;1.57;Slightly underweight;0.0;46.27;102.0;0
+15.0;0.0;21.7;Male;71.0;1.8;About the right weight;1.0;70.31;155.0;1
+17.0;1.0;25.06;Male;72.0;1.83;Slightly underweight;0.0;83.91;185.0;-1
+15.0;0.0;19.62;Female;67.0;1.7;About the right weight;1.0;56.7;125.0;1
+15.0;1.0;26.6;Male;71.0;1.8;Slightly overweight;2.0;86.18;190.0;1
+15.0;0.0;20.02;Female;63.0;1.6;About the right weight;1.0;51.26;113.0;1
+15.0;0.0;22.15;Female;63.0;1.6;About the right weight;1.0;56.7;125.0;1
+18.0;0.0;20.49;Female;64.0;1.63;Slightly overweight;2.0;54.43;120.0;2
+19.0;0.0;22.66;Female;61.0;1.55;About the right weight;1.0;54.43;120.0;1
+17.0;-1.0;17.93;Female;64.0;1.63;About the right weight;1.0;47.63;105.0;2
+15.0;1.0;29.4;Male;71.0;1.8;Slightly overweight;2.0;95.25;210.0;1
+16.0;0.0;24.45;Female;63.0;1.6;Slightly overweight;2.0;62.6;138.0;2
+18.0;0.0;24.11;Male;66.0;1.68;Slightly overweight;2.0;68.04;150.0;2
+16.0;0.0;23.66;Male;65.0;1.65;About the right weight;1.0;64.41;142.0;1
+17.0;1.0;27.9;Male;72.0;1.83;Slightly overweight;2.0;93.44;206.0;1
+16.0;0.0;18.83;Female;65.0;1.65;About the right weight;1.0;51.26;113.0;1
+18.0;1.0;25.11;Female;67.0;1.7;Slightly overweight;2.0;72.57;160.0;1
+15.0;1.0;28.32;Male;65.0;1.65;Slightly overweight;2.0;77.11;170.0;1
+18.0;-1.0;18.19;Male;68.0;1.73;Slightly underweight;0.0;54.43;120.0;1
+16.0;0.0;19.99;Female;65.0;1.65;About the right weight;1.0;54.43;120.0;1
+19.0;0.0;19.6;Male;71.0;1.8;Very underweight;-1.0;63.5;140.0;-1
+17.0;0.0;18.96;Male;72.0;1.83;About the right weight;1.0;63.5;140.0;1
+14.0;0.0;22.16;Male;65.0;1.65;About the right weight;1.0;60.33;133.0;1
+16.0;2.0;32.44;Female;64.0;1.63;Slightly overweight;2.0;86.18;190.0;0
+15.0;0.0;19.12;Female;64.0;1.63;About the right weight;1.0;50.8;112.0;1
+16.0;0.0;21.19;Male;67.0;1.7;About the right weight;1.0;61.23;135.0;1
+19.0;0.0;23.1;Female;71.0;1.8;About the right weight;1.0;74.84;165.0;1
+17.0;0.0;21.67;Male;72.0;1.83;About the right weight;1.0;72.57;160.0;1
+15.0;0.0;19.78;Female;67.0;1.7;About the right weight;1.0;57.15;126.0;1
+18.0;1.0;25.71;Female;66.0;1.68;Slightly overweight;2.0;72.57;160.0;1
+18.0;2.0;30.8;Male;74.0;1.88;Slightly overweight;2.0;108.86;240.0;0
+16.0;0.0;22.15;Female;63.0;1.6;About the right weight;1.0;56.7;125.0;1
+16.0;1.0;25.61;Female;64.0;1.63;Slightly overweight;2.0;68.04;150.0;1
+15.0;0.0;18.78;Female;64.0;1.63;About the right weight;1.0;49.9;110.0;1
+17.0;0.0;19.63;Female;60.0;1.52;Slightly underweight;0.0;45.36;100.0;0
+17.0;0.0;19.7;Female;68.0;1.73;About the right weight;1.0;58.97;130.0;1
+16.0;0.0;20.49;Male;64.0;1.63;About the right weight;1.0;54.43;120.0;1
+19.0;0.0;24.11;Female;66.0;1.68;Slightly overweight;2.0;68.04;150.0;2
+16.0;0.0;19.33;Male;70.0;1.78;About the right weight;1.0;61.23;135.0;1
+18.0;0.0;21.16;Female;62.0;1.57;About the right weight;1.0;52.16;115.0;1
+17.0;0.0;20.72;Female;71.0;1.8;About the right weight;1.0;67.13;148.0;1
+15.0;0.0;21.48;Male;69.0;1.75;About the right weight;1.0;65.77;145.0;1
+19.0;0.0;23.6;Female;61.0;1.55;Slightly overweight;2.0;56.7;125.0;2
+16.0;0.0;19.49;Female;63.0;1.6;About the right weight;1.0;49.9;110.0;1
+15.0;0.0;20.53;Male;74.0;1.88;About the right weight;1.0;72.57;160.0;1
+18.0;0.0;21.22;Male;68.0;1.73;About the right weight;1.0;63.5;140.0;1
+15.0;0.0;19.15;Female;59.0;1.5;About the right weight;1.0;43.09;95.0;1
+16.0;0.0;18.61;Male;74.0;1.88;Slightly underweight;0.0;65.77;145.0;0
+17.0;0.0;22.15;Female;63.0;1.6;About the right weight;1.0;56.7;125.0;1
+18.0;0.0;24.8;Female;63.0;1.6;Slightly overweight;2.0;63.5;140.0;2
+17.0;0.0;20.56;Female;59.0;1.5;About the right weight;1.0;46.27;102.0;1
+18.0;0.0;23.9;Male;64.0;1.63;About the right weight;1.0;63.5;140.0;1
+16.0;0.0;19.63;Female;60.0;1.52;About the right weight;1.0;45.36;100.0;1
+16.0;0.0;21.69;Male;66.0;1.68;About the right weight;1.0;61.23;135.0;1
+15.0;2.0;31.89;Female;63.0;1.6;Slightly overweight;2.0;81.65;180.0;0
+15.0;0.0;19.69;Female;62.0;1.57;About the right weight;1.0;48.53;107.0;1
+15.0;0.0;19.49;Female;63.0;1.6;About the right weight;1.0;49.9;110.0;1
+18.0;0.0;20.89;Female;66.0;1.68;About the right weight;1.0;58.97;130.0;1
+15.0;0.0;22.5;Female;66.0;1.68;Slightly overweight;2.0;63.5;140.0;2
+17.0;0.0;23.0;Female;62.0;1.57;Slightly overweight;2.0;56.7;125.0;2
+15.0;0.0;21.98;Male;68.0;1.73;About the right weight;1.0;65.77;145.0;1
+17.0;0.0;23.49;Male;68.0;1.73;About the right weight;1.0;70.31;155.0;1
+15.0;0.0;21.48;Male;69.0;1.75;About the right weight;1.0;65.77;145.0;1
+17.0;0.0;24.5;Male;71.0;1.8;Slightly overweight;2.0;79.38;175.0;2
+20.0;0.0;23.54;Female;67.0;1.7;About the right weight;1.0;68.04;150.0;1
+17.0;0.0;19.26;Male;69.0;1.75;Slightly underweight;0.0;58.97;130.0;0
+15.0;0.0;21.66;Male;65.0;1.65;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;21.16;Female;62.0;1.57;About the right weight;1.0;52.16;115.0;1
+19.0;0.0;22.38;Female;75.0;1.91;Slightly overweight;2.0;81.65;180.0;2
+18.0;0.0;22.2;Female;64.0;1.63;Slightly overweight;2.0;58.97;130.0;2
+15.0;0.0;21.26;Female;63.0;1.6;About the right weight;1.0;54.43;120.0;1
+19.0;0.0;23.04;Female;63.0;1.6;Slightly overweight;2.0;58.97;130.0;2
+15.0;0.0;22.2;Female;64.0;1.63;Slightly overweight;2.0;58.97;130.0;2
+18.0;0.0;21.22;Female;68.0;1.73;About the right weight;1.0;63.5;140.0;1
+15.0;0.0;20.88;Female;67.0;1.7;About the right weight;1.0;60.33;133.0;1
+15.0;2.0;34.46;Male;73.0;1.85;Very overweight;3.0;117.93;260.0;-5
+18.0;0.0;21.19;Female;67.0;1.7;Slightly overweight;2.0;61.23;135.0;2
+15.0;0.0;19.63;Female;64.0;1.63;Slightly underweight;0.0;52.16;115.0;0
+16.0;1.0;25.18;Male;69.0;1.75;About the right weight;1.0;77.11;170.0;0
+15.0;0.0;20.89;Male;66.0;1.68;Slightly overweight;2.0;58.97;130.0;2
+19.0;2.0;30.06;Male;70.0;1.78;Slightly overweight;2.0;95.25;210.0;0
+16.0;0.0;22.19;Male;70.0;1.78;Slightly overweight;2.0;70.31;155.0;2
+19.0;1.0;25.05;Male;73.0;1.85;About the right weight;1.0;85.73;189.0;0
+15.0;0.0;19.99;Female;69.0;1.75;Slightly overweight;2.0;61.23;135.0;2
+19.0;1.0;25.67;Male;74.0;1.88;Slightly overweight;2.0;90.72;200.0;1
+15.0;0.0;19.22;Male;73.0;1.85;About the right weight;1.0;65.77;145.0;1
+17.0;0.0;23.05;Female;64.0;1.63;About the right weight;1.0;61.23;135.0;1
+15.0;0.0;19.16;Female;65.0;1.65;About the right weight;1.0;52.16;115.0;1
+14.0;0.0;18.99;Female;65.0;1.65;About the right weight;1.0;51.71;114.0;1
+17.0;0.0;20.76;Female;70.0;1.78;About the right weight;1.0;65.77;145.0;1
+18.0;0.0;20.73;Male;69.0;1.75;Slightly underweight;0.0;63.5;140.0;0
+15.0;-1.0;17.72;Female;63.0;1.6;About the right weight;1.0;45.36;100.0;2
+17.0;0.0;18.78;Male;64.0;1.63;Very underweight;-1.0;49.9;110.0;-1
+16.0;0.0;18.78;Female;64.0;1.63;About the right weight;1.0;49.9;110.0;1
+17.0;0.0;22.19;Male;70.0;1.78;About the right weight;1.0;70.31;155.0;1
+15.0;0.0;21.0;Male;71.0;1.8;About the right weight;1.0;68.04;150.0;1
+17.0;1.0;25.77;Male;70.0;1.78;About the right weight;1.0;81.65;180.0;0
+18.0;2.0;37.94;Male;70.0;1.78;Slightly overweight;2.0;120.2;265.0;0
+17.0;1.0;25.71;Male;66.0;1.68;About the right weight;1.0;72.57;160.0;0
+17.0;0.0;19.33;Male;70.0;1.78;About the right weight;1.0;61.23;135.0;1
+19.0;0.0;22.96;Male;69.0;1.75;Slightly underweight;0.0;70.31;155.0;0
+17.0;-1.0;18.33;Female;65.0;1.65;Very underweight;-1.0;49.9;110.0;0
+17.0;0.0;22.5;Male;66.0;1.68;Slightly overweight;2.0;63.5;140.0;2
+15.0;-1.0;17.49;Female;65.0;1.65;Slightly underweight;0.0;47.63;105.0;1
+18.0;0.0;23.92;Female;62.0;1.57;About the right weight;1.0;58.97;130.0;1
+18.0;0.0;24.35;Female;61.0;1.55;About the right weight;1.0;58.51;129.0;1
+19.0;2.0;35.36;Female;66.0;1.68;Very overweight;3.0;99.79;220.0;-5
+16.0;2.0;30.06;Male;70.0;1.78;Very overweight;3.0;95.25;210.0;-5
+16.0;0.0;18.78;Female;64.0;1.63;About the right weight;1.0;49.9;110.0;1
+16.0;2.0;33.66;Female;63.0;1.6;Slightly overweight;2.0;86.18;190.0;0
+19.0;0.0;22.2;Male;64.0;1.63;About the right weight;1.0;58.97;130.0;1
+16.0;2.0;31.5;Female;70.0;1.78;Very overweight;3.0;99.79;220.0;-5
+18.0;0.0;20.14;Female;64.0;1.63;About the right weight;1.0;53.52;118.0;1
+19.0;0.0;19.63;Female;64.0;1.63;About the right weight;1.0;52.16;115.0;1
+18.0;0.0;23.05;Female;64.0;1.63;Slightly overweight;2.0;61.23;135.0;2
+19.0;2.0;30.48;Male;72.0;1.83;Slightly overweight;2.0;102.06;225.0;0
+16.0;1.0;25.77;Male;70.0;1.78;About the right weight;1.0;81.65;180.0;0
+16.0;1.0;26.66;Male;69.0;1.75;About the right weight;1.0;81.65;180.0;0
+18.0;1.0;28.14;Male;69.0;1.75;Slightly overweight;2.0;86.18;190.0;1
+15.0;0.0;18.9;Male;71.0;1.8;About the right weight;1.0;61.23;135.0;1
+17.0;1.0;26.58;Female;63.0;1.6;Slightly overweight;2.0;68.04;150.0;1
+15.0;1.0;29.62;Male;69.0;1.75;Slightly overweight;2.0;90.72;200.0;1
+17.0;0.0;21.34;Male;64.0;1.63;About the right weight;1.0;56.7;125.0;1
+14.0;0.0;18.99;Male;65.0;1.65;About the right weight;1.0;51.71;114.0;1
+16.0;0.0;19.62;Male;67.0;1.7;Slightly underweight;0.0;56.7;125.0;0
+19.0;1.0;28.35;Female;63.0;1.6;Very overweight;3.0;72.57;160.0;-4
+17.0;0.0;20.99;Male;72.0;1.83;About the right weight;1.0;70.31;155.0;1
+16.0;-1.0;17.19;Female;63.0;1.6;About the right weight;1.0;44.0;97.0;2
+18.0;0.0;22.35;Male;72.0;1.83;About the right weight;1.0;74.84;165.0;1
+16.0;-1.0;18.48;Male;66.0;1.68;Slightly underweight;0.0;52.16;115.0;1
+16.0;0.0;24.11;Male;66.0;1.68;About the right weight;1.0;68.04;150.0;1
+17.0;0.0;21.69;Male;66.0;1.68;About the right weight;1.0;61.23;135.0;1
+16.0;0.0;19.29;Male;66.0;1.68;Slightly underweight;0.0;54.43;120.0;0
+19.0;0.0;21.47;Male;70.0;1.78;About the right weight;1.0;68.04;150.0;1
+15.0;0.0;20.49;Female;64.0;1.63;About the right weight;1.0;54.43;120.0;1
+16.0;0.0;20.04;Male;70.0;1.78;About the right weight;1.0;63.5;140.0;1
+16.0;0.0;21.22;Male;68.0;1.73;About the right weight;1.0;63.5;140.0;1
+17.0;-1.0;17.32;Male;74.0;1.88;Slightly underweight;0.0;61.23;135.0;1
+15.0;0.0;20.83;Female;65.0;1.65;About the right weight;1.0;56.7;125.0;1
+18.0;1.0;25.83;Female;65.0;1.65;Slightly overweight;2.0;70.31;155.0;1
+15.0;1.0;28.25;Female;67.0;1.7;Slightly overweight;2.0;81.65;180.0;1
+18.0;0.0;20.37;Female;63.0;1.6;About the right weight;1.0;52.16;115.0;1
+18.0;2.0;30.8;Male;71.0;1.8;Slightly overweight;2.0;99.79;220.0;0
+19.0;1.0;26.51;Male;73.0;1.85;Slightly overweight;2.0;90.72;200.0;1
+18.0;0.0;21.76;Male;75.0;1.91;Slightly underweight;0.0;79.38;175.0;0
+16.0;0.0;21.76;Male;75.0;1.91;About the right weight;1.0;79.38;175.0;1
+18.0;0.0;21.0;Male;71.0;1.8;Slightly underweight;0.0;68.04;150.0;0
+17.0;0.0;21.0;Male;71.0;1.8;About the right weight;1.0;68.04;150.0;1
+16.0;1.0;28.52;Female;62.0;1.57;About the right weight;1.0;70.31;155.0;0
+17.0;0.0;21.66;Male;65.0;1.65;About the right weight;1.0;58.97;130.0;1
+15.0;0.0;20.81;Male;73.0;1.85;About the right weight;1.0;71.21;157.0;1
+17.0;0.0;24.5;Male;71.0;1.8;Slightly underweight;0.0;79.38;175.0;0
+15.0;0.0;22.82;Male;65.0;1.65;About the right weight;1.0;62.14;137.0;1
+15.0;2.0;35.44;Female;63.0;1.6;Slightly overweight;2.0;90.72;200.0;0
+18.0;0.0;22.02;Female;66.0;1.68;About the right weight;1.0;62.14;137.0;1
+18.0;0.0;23.1;Male;71.0;1.8;About the right weight;1.0;74.84;165.0;1
+17.0;0.0;23.16;Female;60.0;1.52;About the right weight;1.0;53.52;118.0;1
+19.0;0.0;21.0;Female;64.0;1.63;About the right weight;1.0;55.79;123.0;1
+16.0;0.0;22.73;Male;68.0;1.73;About the right weight;1.0;68.04;150.0;1
+19.0;0.0;20.49;Female;64.0;1.63;About the right weight;1.0;54.43;120.0;1
+16.0;0.0;21.19;Male;76.0;1.93;About the right weight;1.0;78.93;174.0;1
+19.0;0.0;22.15;Female;63.0;1.6;Slightly underweight;0.0;56.7;125.0;0
+16.0;0.0;23.04;Female;63.0;1.6;About the right weight;1.0;58.97;130.0;1
+16.0;0.0;23.03;Male;72.0;1.83;Slightly overweight;2.0;77.11;170.0;2
+19.0;0.0;23.54;Female;67.0;1.7;About the right weight;1.0;68.04;150.0;1
+17.0;0.0;20.29;Male;69.0;1.75;Slightly underweight;0.0;62.14;137.0;0
+17.0;0.0;23.1;Male;71.0;1.8;About the right weight;1.0;74.84;165.0;1
+16.0;2.0;36.44;Female;62.0;1.57;Slightly overweight;2.0;89.81;198.0;0
+17.0;1.0;28.17;Female;64.0;1.63;About the right weight;1.0;74.84;165.0;0
+20.0;0.0;22.49;Female;65.0;1.65;About the right weight;1.0;61.23;135.0;1
+18.0;0.0;20.89;Female;66.0;1.68;About the right weight;1.0;58.97;130.0;1
+17.0;1.0;27.48;Male;75.0;1.91;About the right weight;1.0;100.24;221.0;0
+15.0;2.0;31.08;Male;75.0;1.91;Slightly overweight;2.0;113.4;250.0;0
+15.0;2.0;34.49;Female;64.0;1.63;Slightly overweight;2.0;91.63;202.0;0
+16.0;0.0;18.68;Female;67.0;1.7;About the right weight;1.0;53.98;119.0;1
+18.0;0.0;23.1;Male;74.0;1.88;About the right weight;1.0;81.65;180.0;1
+15.0;1.0;28.32;Female;61.0;1.55;Very overweight;3.0;68.04;150.0;-4
+16.0;0.0;19.81;Female;64.0;1.63;About the right weight;1.0;52.62;116.0;1
+15.0;0.0;22.49;Male;65.0;1.65;About the right weight;1.0;61.23;135.0;1
+18.0;0.0;23.92;Female;62.0;1.57;About the right weight;1.0;58.97;130.0;1
+19.0;0.0;23.0;Male;75.0;1.91;Slightly underweight;0.0;83.91;185.0;0
+18.0;0.0;21.26;Female;63.0;1.6;Slightly overweight;2.0;54.43;120.0;2
+16.0;0.0;22.73;Male;68.0;1.73;About the right weight;1.0;68.04;150.0;1
+16.0;0.0;19.7;Female;68.0;1.73;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;19.63;Female;64.0;1.63;About the right weight;1.0;52.16;115.0;1
+16.0;0.0;20.77;Female;61.0;1.55;About the right weight;1.0;49.9;110.0;1
+16.0;0.0;23.64;Male;68.0;1.73;About the right weight;1.0;70.76;156.0;1
+19.0;0.0;22.58;Male;68.0;1.73;About the right weight;1.0;67.59;149.0;1
+16.0;0.0;20.61;Female;62.0;1.57;About the right weight;1.0;50.8;112.0;1
+16.0;0.0;20.89;Male;66.0;1.68;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;19.26;Female;69.0;1.75;Slightly underweight;0.0;58.97;130.0;0
+19.0;0.0;24.91;Female;66.0;1.68;Slightly overweight;2.0;70.31;155.0;2
+17.0;0.0;23.92;Female;62.0;1.57;Slightly overweight;2.0;58.97;130.0;2
+19.0;0.0;19.88;Male;73.0;1.85;About the right weight;1.0;68.04;150.0;1
+16.0;0.0;21.48;Male;69.0;1.75;About the right weight;1.0;65.77;145.0;1
+19.0;0.0;20.37;Female;63.0;1.6;About the right weight;1.0;52.16;115.0;1
+15.0;-1.0;17.03;Female;69.0;1.75;Slightly overweight;2.0;52.16;115.0;3
+19.0;0.0;23.62;Male;70.0;1.78;About the right weight;1.0;74.84;165.0;1
+17.0;0.0;22.22;Male;69.0;1.75;About the right weight;1.0;68.04;150.0;1
+17.0;0.0;23.04;Female;63.0;1.6;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;23.1;Male;71.0;1.8;Slightly overweight;2.0;74.84;165.0;2
+15.0;0.0;21.71;Female;61.0;1.55;About the right weight;1.0;52.16;115.0;1
+19.0;1.0;29.12;Male;72.0;1.83;About the right weight;1.0;97.52;215.0;0
+16.0;0.0;20.4;Female;67.0;1.7;About the right weight;1.0;58.97;130.0;1
+17.0;0.0;24.92;Female;64.0;1.63;About the right weight;1.0;66.22;146.0;1
+17.0;2.0;35.28;Female;59.0;1.5;Very overweight;3.0;79.38;175.0;-5
+15.0;0.0;19.29;Female;66.0;1.68;About the right weight;1.0;54.43;120.0;1
+18.0;-1.0;17.94;Female;61.0;1.55;About the right weight;1.0;43.09;95.0;2
+16.0;0.0;23.16;Female;60.0;1.52;About the right weight;1.0;53.52;118.0;1
+19.0;0.0;23.86;Male;67.0;1.7;About the right weight;1.0;68.95;152.0;1
+17.0;0.0;22.5;Female;56.0;1.42;About the right weight;1.0;45.36;100.0;1
+16.0;1.0;28.44;Male;72.0;1.83;Slightly overweight;2.0;95.25;210.0;1
+15.0;-1.0;17.48;Female;62.0;1.57;Slightly underweight;0.0;43.09;95.0;1
+18.0;2.0;33.32;Male;65.0;1.65;Slightly overweight;2.0;90.72;200.0;0
+18.0;0.0;21.97;Male;67.0;1.7;Slightly underweight;0.0;63.5;140.0;0
+16.0;0.0;18.61;Female;63.0;1.6;About the right weight;1.0;47.63;105.0;1
+;;;;;;;;;;0
